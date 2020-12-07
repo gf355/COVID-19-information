@@ -13,4 +13,14 @@
         {% include template/footer.html %}
         {% include template/foot.html %}
     </body>
+    <script>
+        setTimeout(function() {
+            document.getElementById('timeline-embed')
+                .querySelectorAll('a')
+                .forEach(function(elem) {
+                    elem.setAttribute('target','_blank');
+                    elem.setAttribute('rel','noopener');
+                })
+        }, 2000);
+    </script>
 </html>

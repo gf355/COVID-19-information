@@ -1,47 +1,9 @@
-#######
-#
-# timeline-covid-aerosol
-# basic template for self-hosted TimelineJS
-# https://github.com/thecdil/timelinejs-template
-#
-#######
-
-#######
-# SITE SETTINGS
-#
 title: covid-19-aerosol-timeline
-description: "This is a timeline about the aerosolized nature of COVID-19"
+description: "Timeline supporting the aerosol nature of COVID-19 infection"
 year: 2020
 author: Gary Guo
 # add search box to navbar, true/false
 search: false
-
-#######
-# SITE URLs
-#
-# Optional if using GitHub Pages!
-# If building manually, these must be set correctly.
-#
-# add the url for the domain,
-# on gh-pages follow the pattern: https://username.github.io 
-# url: https://thecdil.github.io
-# add subsection of the domain,
-# on gh-pages this is a / followed by the name of the repository
-# baseurl: /timelinejs-template
-
-##########
-# GOOGLE ANALYTICS [optional!]
-#
-# leave this blank or comment out to NOT include google code
-# Add your google-analytics-id to automatically add the embed code, e.g. "UA-76328753-1"
-# google-analytics-id: 
-
-##########
-# ROBOTS EXCLUDE
-#
-# set noindex to true if you do NOT want Google to index your site
-# noindex: true 
-
 
 #######
 # Defaults 
