@@ -1,0 +1,282 @@
+{
+  "title": {
+    "media": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SARS-CoV-2_without_background.png/800px-SARS-CoV-2_without_background.png",
+      "caption": "This illustration, created at the Centers for Disease Control and Prevention (CDC)",
+      "credit": "CDC/ Alissa Eckert, MS; Dan Higgins, MAM"
+    },
+    "text": {
+      "headline": "Fact: The principal mechanism of COVID-19 infection is aerosol",
+      "text": "See the Frequently Asked Questions (FAQ) mega document: <a target=\"_blank\" href='https://tinyurl.com/FAQ-aerosols'>https://tinyurl.com/FAQ-aerosols</a>"
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "thumbnail": "media/twiceAsFar.png",
+        "url": "https://cdn.i-scmp.com/sites/default/files/d8/images/methode/2020/03/11/2367f83c-61fc-11ea-8e9f-2d196083a37c_972x_161511.jpg",
+        "caption": "Several passengers became infected during the four-hour bus journey.",
+        "link": "https://www.scmp.com/news/china/science/article/3074351/coronavirus-can-travel-twice-far-official-safe-distance-and-stay",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 9
+      },
+      "text": {
+        "headline": "'Twice as far'",
+        "text": "Article: Coronavirus can travel twice as far as official ‘safe distance’ and stay in air for 30 minutes, Chinese study finds"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "media/restaurant.png",
+        "url": "https://user-images.githubusercontent.com/82182/101359313-fd8a9d80-3893-11eb-9432-4a5b7815e7ab.png",
+        "caption": "Diagram showing arrangement of restaurant tables and air conditioning airflow at site of outbreak ",
+        "link": "https://www.medrxiv.org/content/10.1101/2020.04.16.20067728v1.full.pdf",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 4,
+        "day": 2
+      },
+      "text": {
+        "headline": "A/C in Guangzhou Restaurant",
+        "text": "Study: COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.youtube.com/watch?v=2VIleZ2R0qE",
+        "caption": "Schlieren Imaging with high speed sensitivity camera recording (10,000 frames/second, courtesy of Bell Labs)",
+        "link": "",
+        "credit": "Mater Misericordiae University Hospital Surgery"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 4,
+        "day": 29
+      },
+      "text": {
+        "headline": "This is how we sneeze",
+        "text": "High-speed Video showing a human sneeze"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "media/cloud.mp4",
+        "caption": "Man sneezing",
+        "link": "https://www.reddit.com/r/CovIdiots/comments/h79eov/how_there_is_any_debate_will_always_be_a_wonder/",
+        "credit": "Mater Misericordiae University Hospital Surgery"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 6,
+        "day": 12
+      },
+      "text": {
+        "headline": "How there is there any debate?",
+        "text": "Simple social media post on Reddit, 'the front page of the internet'. (Source unknown)"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "media/choir.png",
+        "url": "https://www.cdc.gov/mmwr/volumes/69/wr/social-media/mm6919e6_ChoirPracticeCOVID19_IMAGE_12May20_1200x675-medium.jpg",
+        "caption": "Skagit Choir seatmap: infection distance",
+        "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e6.htm",
+        "credit": "CDC.gov"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 5,
+        "day": 15
+      },
+      "text": {
+        "headline": "People at choir practice infected at distance",
+        "text": "Following a 2.5-hour choir practice attended by 61 people, including a symptomatic index patient, 32 confirmed and 20 probable secondary COVID-19 cases occurred (attack rate = 53.3% to 86.7%); three patients were hospitalized, and two died. Transmission was likely facilitated by close proximity (within 6 feet for some) during practice and augmented by the act of singing. Study available <a target=\"_blank\" href='https://academic.oup.com/ofid/article/7/10/ofaa430/5905033'>much later in September</a>. Also a <a target=\"_blank\" href=\"https://pbs.twimg.com/media/EomNL89XcAIcAjZ?format=jpg&name=large\">one-slide summary.</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://pbs.twimg.com/card_img/1334568127984771073/ktW6yDEu?format=jpg&name=small",
+        "caption": "Clip from Japanese video on computer modelling of aerosol nature of Covid-19",
+        "link": "https://www.cbsnews.com/news/coronavirus-japan-has-long-accepted-covids-airborne-spread-and-scientists-say-ventilation-is-key/",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 7,
+        "day": 13
+      },
+      "text": {
+        "headline": "Japan has long accepted COVID's airborne spread",
+        "text": "Article: \"If the WHO recognizes what we did in Japan, then maybe in other parts of the world, they will change (their antiviral procedures),\" said Shin-Ichi Tanabe, a professor in the architecture department of Japan's prestigious Waseda University. He was one of the 239 international scientists who co-wrote an open letter to the WHO urging the United Nations agency to revise its guidelines on how to stop the virus spreading"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "media/reality.png",
+        "url": "https://ars.els-cdn.com/content/image/1-s2.0-S016041202031254X-gr1.jpg",
+        "caption": "Droplets hitting the group, aerosols going and going",
+        "link": "https://www.sciencedirect.com/science/article/pii/S016041202031254X",
+        "credit": "Lidia Morawskaa & Junji Cao vi Elsevier"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 6
+      },
+      "text": {
+        "headline": "Facing reality",
+        "text": "Study: Airborne transmission of SARS-CoV-2: The world should face the reality - Lidia Morawska and Junji Caob"
+      }
+    },
+    {
+      "media": {
+        "url": "https://images.theconversation.com/files/352604/original/file-20200812-20-31ojns.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=600&h=400&fit=crop&dpr=1",
+        "caption": "Laser-induced fluorescence is a method of using lasers to cause specific substances to emit light",
+        "link": "https://theconversation.com/the-covid-19-virus-can-spread-through-the-air-heres-what-itll-take-to-detect-the-airborne-particles-140149",
+        "credit": "By Jan Pavelka/Wikimedia Commons, CC BY-SA"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 8,
+        "day": 14
+      },
+      "text": {
+        "headline": "Growing body of research",
+        "text": "Article: A growing body of research shows that SARS-CoV-2, the virus that causes COVID-19, can spread from person to person through the air. Indoor spaces with poor ventilation in areas where the virus is prevalent are particularly hazardous"
+      }
+    },
+     {
+      "media": {
+        "thumbnail": "media/drops.png",
+        "url": "https://www.news-medical.net/image.axd?picture=2020%2f8%2f%40020.08.04.20168468v1.jpg&ts=20200810021637&ri=750",
+        "caption": "Snapshots of the droplet-laden cough simulation",
+        "link": "https://www.news-medical.net/news/20200810/SARS-CoV-2-droplets-travel-further-and-last-longer-than-thought-and-even-more-in-humid-air.aspx",
+        "credit": "University of Twente and University of Rome Tor Vergata"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 8,
+        "day": 10
+      },
+      "text": {
+        "headline": "Airborne transmission",
+        "text": "Study: Long-distance airborne transmission through multiphase turbulent droplet cloud emission is an essential factor"
+      }
+    },
+    {
+      "media": {
+        "url": "https://i.insider.com/5f43d80c42f43f001ddfe9a0?width=1000&format=jpeg&auto=webp",
+        "caption": "Generic pic of a Starbucks",
+        "link": "http://webcache.googleusercontent.com/search?q=cache:jgZQOBFDBg0J:www.cdc.go.kr/board/board.es%3Fmid%3Da30402000000%255C%26bid%3D0030%26act%3Dview%26list_no%3D368221%26tag%3D%26nPage%3D1+&cd=1&hl=en&ct=clnk&gl=uk",
+        "credit": "Dogyun Kim/Reuters"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 8,
+        "day": 24
+      },
+      "text": {
+        "headline": "56 infected in a Starbucks in South Korea",
+        "text": "Study: 56 coronavirus cases were linked to a Starbucks in South Korea. But employees who were wearing masks didn't get infected. Read More: <a target='_blank' href='https://www.businessinsider.com/56-got-coronavirus-south-korea-starbucks-mask-wearers-did-not-2020-8'>Business Insider</a> or <a target='_blank' href='https://fortune.com/2020/08/25/covid-outbreak-starbucks-seoul-masks-employees/'>Fortune.com</a> or <a target='_blank' href='https://edition.cnn.com/world/live-news/coronavirus-pandemic-08-25-20-intl/h_d88a8d6e5ee96dd569bd1be5d494de45'>CNN</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "media/eh.png",
+        "url": "https://user-images.githubusercontent.com/82182/101012518-dca40e80-355a-11eb-9a56-21730fb85a82.png",
+        "caption": "Slide from recent NASEM workshop on airborne transmission of SARS-CoV-2",
+        "link": "https://www.nationalacademies.org/event/08-26-2020/airborne-transmission-of-sars-cov-2-a-virtual-workshop",
+        "credit": "Dr. Jay C Butler (CDC)"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 8,
+        "day": 26
+      },
+      "text": {
+        "headline": "Environmental Health Matters Initiative (EHMI) workshop",
+        "text": "Workshop session: Droplets versus aerosols and more for the pandemic. Downloadable PDFs for 19 speakers in the workshop an a video of proceedings."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "media/cdc_retract.jpg",
+        "url": "https://storage.googleapis.com/afs-prod/media/d478dedd87ee43fea2784a7a3ef02c09/800.jpeg",
+        "caption": "Centers for Disease Control and Prevention Director Dr. Robert Redfield puts his mask back on after speaking at a Senate Appropriations subcommittee hearing",
+        "link": "https://apnews.com/article/virus-outbreak-archive-public-health-cfb43dd5a28dd449cd1100a067cfd112",
+        "credit": "AP Photo/Andrew Harnik"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 9,
+        "day": 22
+      },
+      "text": {
+        "headline": "CDC changes, then retracts, web posting on how virus spreads",
+        "text": "Article: The top U.S. public health agency stirred confusion by posting — and then taking down — an apparent change in its position [to aerosols] on how easily the coronavirus can spread from person to person through the air. <br>But officials at the Centers for Disease Control and Prevention say their position has not really changed ..."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://pbs.twimg.com/media/EopQAewW4AAlotN?format=jpg&name=small",
+        "caption": "CBS news feed pic",
+        "link": "https://www.cbc.ca/news/health/coronavirus-canada-aerosol-transmission-covid-19-1.5789906",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 11,
+        "day": 4
+      },
+      "text": {
+        "headline": "Canada acknowledges aerosol transmission",
+        "text": "Official Guidance: \"SARS-CoV-2, the virus that causes COVID-19, spreads from an infected person to others through respiratory droplets and aerosols created when an infected person coughs, sneezes, sings, shouts, or talks,\" the updated guidance said. <br><br>\",The droplets vary in size from large droplets that fall to the ground rapidly (within seconds or minutes) near the infected person, to smaller droplets, sometimes called aerosols, which linger in the air under some circumstances.\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/101375306-1fd9e680-38a7-11eb-94c9-5a6d0529ddb5.png",
+        "caption": "Still from JAMA Network conversation",
+        "link": "https://edhub.ama-assn.org/jn-learning/video-player/18554257",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 10,
+        "day": 26
+      },
+      "text": {
+        "headline": "New head of US CDC acknowledges aerosol nature of COVID-19",
+        "text": "“...aerosols, I think, was another surprise. We thought we knew how respiratory viruses generally work. We thought it was going to be droplet, and it turns out, you know, a lot of aerosol.” - Rochelle Walensky"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2df5e824-68d5-4b01-b10a-780a273ff63b_721x660.png",
+        "caption": "After only 5 minutes sitting in proximity to spreader, a diner was infected 21 feet away",
+        "link": "https://jkms.org/DOIx.php?id=10.3346/jkms.2020.35.e415",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 11,
+        "day": 23
+      },
+      "text": {
+        "headline": "Infected in direct air flow in a Korean restaurant",
+        "text": "Study Conclusion: Droplet transmission can occur at a distance greater than 2 m if there is direct air flow from an infected person. Therefore, updated guidelines involving prevention, contact tracing, and quarantine for COVID-19 are required for control of this highly contagious disease."
+      }
+    }
+  ]
+}

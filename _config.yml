@@ -1,6 +1,6 @@
 #######
 #
-# timelinejs-template
+# timeline-covid-aerosol
 # basic template for self-hosted TimelineJS
 # https://github.com/thecdil/timelinejs-template
 #
@@ -9,10 +9,10 @@
 #######
 # SITE SETTINGS
 #
-title: timelinejs-template
-description: "basic template for self-hosted TimelineJS"
+title: covid-19-aerosol-timeline
+description: "This is a timeline about the aerosolized nature of COVID-19"
 year: 2020
-author: evan will 
+author: Gary Guo
 # add search box to navbar, true/false
 search: false
 
