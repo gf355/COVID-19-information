@@ -1,7 +1,7 @@
 title: covid-19-aerosol-timeline
-description: "Timeline supporting the aerosol nature of COVID-19 infection"
+description: "a timeline supporting the aerosol nature of COVID-19 infection"
 year: 2020
-author: Gary Guo and others
+author: gary guo and others
 # add search box to navbar, true/false
 search: false
 
