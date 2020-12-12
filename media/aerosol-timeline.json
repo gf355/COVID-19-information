@@ -227,6 +227,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://cdn.thewire.in/wp-content/uploads/2020/08/24183424/coronavirus-4952102_1920-1600x1067.jpg",
+        "caption": "US CDC discusses possible COVID-19 aerosol transmission",
+        "link": "https://www.cdc.gov/coronavirus/2019-ncov/more/scientific-brief-sars-cov-2.html",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 10,
+        "day": 5
+      },
+      "text": {
+        "headline": "Scientific Brief: SARS-CoV-2 and Potential Airborne Transmission",
+        "text": "Smaller droplets and particles (formed when small droplets dry very quickly in the airstream) can remain suspended for many minutes to hours and travel far from the source on air currents. "
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://pbs.twimg.com/media/EopQAewW4AAlotN?format=jpg&name=small",
         "caption": "CBS news feed pic",
         "link": "https://www.cbc.ca/news/health/coronavirus-canada-aerosol-transmission-covid-19-1.5789906",
