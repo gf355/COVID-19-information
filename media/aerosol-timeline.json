@@ -7,7 +7,7 @@
     },
     "text": {
       "headline": "Fact: The principal mechanism of COVID-19 infection is aerosol",
-      "text": "See the Frequently Asked Questions (FAQ) mega document: <a target=\"_blank\" href='https://tinyurl.com/FAQ-aerosols'>https://tinyurl.com/FAQ-aerosols</a>"
+      "text": "See the Frequently Asked Questions (FAQ) mega document: <a href='https://tinyurl.com/FAQ-aerosols'>https://tinyurl.com/FAQ-aerosols</a>"
     }
   },
   "events": [
@@ -15,18 +15,36 @@
       "media": {
         "thumbnail": "media/twiceAsFar.png",
         "url": "https://cdn.i-scmp.com/sites/default/files/d8/images/methode/2020/03/11/2367f83c-61fc-11ea-8e9f-2d196083a37c_972x_161511.jpg",
-        "caption": "Several passengers became infected during the four-hour bus journey.",
+        "caption": "Red is the index patient. Purple got on the bus 30 minutes after the index patient left.",
         "link": "https://www.scmp.com/news/china/science/article/3074351/coronavirus-can-travel-twice-far-official-safe-distance-and-stay",
         "credit": ""
       },
       "start_date": {
         "year": "2020",
-        "month": 3,
-        "day": 9
+        "month": 1,
+        "day": 20
       },
       "text": {
-        "headline": "'Twice as far'",
-        "text": "Article: Coronavirus can travel twice as far as official ‘safe distance’ and stay in air for 30 minutes, Chinese study finds"
+        "headline": "Hunan bus: COVID-19 can travel 'twice as far' (4.5m) and linger 30 minutes",
+        "text": "Newspaper article: Coronavirus can travel twice as far as official ‘safe distance’ and stay in air for 30 minutes, Chinese study finds. A number of passengers became infected during the four-hour bus journey. One was infected AFTER the index patient got off. There is CCTV on all Chinese inter-city busses, so they knew that the index patient never got out of his seat.<br><br><a href='https://www.scmp.com/news/china/science/article/3074351/coronavirus-can-travel-twice-far-official-safe-distance-and-stay'>Article in SCMP, reported mid-March</a>.<br><br><a href='https://twitter.com/jmcrookston/status/1308907690987528198'>Twitter post and original report (@jmcrookston)</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://pbs.twimg.com/media/EWD_1l2XgAMpMZC?format=jpg&name=medium",
+        "caption": "Chinese mall",
+        "link": "https://wwwnc.cdc.gov/eid/article/26/6/20-0412_article",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 1,
+        "day": 20
+      },
+      "text": {
+        "headline": "Indirect spread at a Chinese mall",
+        "text": "Study: Indirect spread at a Chinese mall. Postulated either fomite in elevator or, you guessed it, aerosol. <a href='https://wwwnc.cdc.gov/eid/article/26/6/20-0412_article'>Article in the EID Journal, reported mid-March</a>. See <a href='https://twitter.com/jmcrookston/status/1252290275512377350'>single post (@jmcrookston)</a>."
       }
     },
     {
@@ -39,12 +57,30 @@
       },
       "start_date": {
         "year": "2020",
-        "month": 4,
-        "day": 2
+        "month": 1,
+        "day": 26
       },
       "text": {
-        "headline": "A/C in Guangzhou Restaurant",
-        "text": "Study: COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020"
+        "headline": "Outbreak in Guangzhou restaurant, circulated by air conditioning",
+        "text": "Everybody infected at a Chinese restaurant was sitting in the path of the air conditioning.<br><br>Reported in the CDC Journal in April as <a href='https://wwwnc.cdc.gov/eid/article/26/7/20-0764_article'>COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020</a>. <a href='https://wwwnc.cdc.gov/eid/images/20-0764-F1.jpg'>Picture from that article</a>"
+      }
+    },
+{
+      "media": {
+        "thumbnail": "",
+        "url": "https://wwwnc.cdc.gov/eid/images/20-1274-F2.jpg",
+        "caption": "Diagram showing arrangement of infecteds at the call centre, in blue.",
+        "link": "https://wwwnc.cdc.gov/eid/article/26/8/20-1274_article",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 8
+      },
+      "text": {
+        "headline": "Outbreak at call centre in Seoul, South Korea",
+        "text": "Outbreak at South Korean call centre in Seoul. Reported in the CDC Journal as <a href='https://wwwnc.cdc.gov/eid/article/26/8/20-1274_article'>Coronavirus Disease Outbreak in Call Center, South Korea</a> in late April as early release. <a href='https://wwwnc.cdc.gov/eid/images/20-1274-F1.jpg'>Picture 1</a>, <a href='https://wwwnc.cdc.gov/eid/images/20-1274-F2.jpg'>picture 2</a>."
       }
     },
     {
@@ -67,6 +103,42 @@
     },
     {
       "media": {
+        "thumbnail": "media/choir.png",
+        "url": "https://www.cdc.gov/mmwr/volumes/69/wr/social-media/mm6919e6_ChoirPracticeCOVID19_IMAGE_12May20_1200x675-medium.jpg",
+        "caption": "Skagit Choir seatmap: infection distance",
+        "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e6.htm",
+        "credit": "CDC.gov"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 5,
+        "day": 15
+      },
+      "text": {
+        "headline": "People at choir practice infected at distance",
+        "text": "Following a 2.5-hour choir practice attended by 61 people, including a symptomatic index patient, 32 confirmed and 20 probable secondary COVID-19 cases occurred (attack rate = 53.3% to 86.7%); three patients were hospitalized, and two died. Transmission was likely facilitated by close proximity (within 6 feet for some) during practice and augmented by the act of singing. Reported in: <a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e6.htm'>CDC Journal May 15, 2020</a> as well as a <a href='https://academic.oup.com/ofid/article/7/10/ofaa430/5905033'>larger study that was available much later in September</a>. See also a <a href=\"https://twitter.com/jljcolorado/status/1335754175066611713\">one-slide summary (@jljcolorado)</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.cdc.gov/mmwr/volumes/69/wr/social-media/mm6920e2_ChurchEventsArkansasCOVID19_IMAGE_19May20_1200x675-medium.jpg",
+        "caption": "High COVID-19 attack rate at a Church in Arkensas",
+        "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6920e2.htm",
+        "credit": "CDC.gov"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 5,
+        "day": 16
+      },
+      "text": {
+        "headline": "High COVID-19 attack rate at a Church in Arkensas",
+        "text": "Two symptomatic people attended church events March 6-8. From that, 35 or 92 people were infected and 3 died. <a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6920e2.htm'>Reported in the MMWR journal</a>."
+      }
+    },
+    {
+      "media": {
         "thumbnail": "",
         "url": "media/cloud.mp4",
         "caption": "Man sneezing",
@@ -85,20 +157,56 @@
     },
     {
       "media": {
-        "thumbnail": "media/choir.png",
-        "url": "https://www.cdc.gov/mmwr/volumes/69/wr/social-media/mm6919e6_ChoirPracticeCOVID19_IMAGE_12May20_1200x675-medium.jpg",
-        "caption": "Skagit Choir seatmap: infection distance",
-        "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e6.htm",
-        "credit": "CDC.gov"
+        "thumbnail": "",
+        "url": "https://media.wired.com/photos/5f21b7edfd6517d6ce008a7e/master/w_2560%2Cc_limit/Science_summercamp_83266659.jpg",
+        "caption": "Generic tug-of-war pic, typical of campers",
+        "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6931e1.htm",
+        "credit": "PHOTOGRAPH: MARTIN BARRAUD/GETTY IMAGES"
       },
       "start_date": {
         "year": "2020",
-        "month": 5,
-        "day": 15
+        "month": 6,
+        "day": 17
       },
       "text": {
-        "headline": "People at choir practice infected at distance",
-        "text": "Following a 2.5-hour choir practice attended by 61 people, including a symptomatic index patient, 32 confirmed and 20 probable secondary COVID-19 cases occurred (attack rate = 53.3% to 86.7%); three patients were hospitalized, and two died. Transmission was likely facilitated by close proximity (within 6 feet for some) during practice and augmented by the act of singing. Study available <a target=\"_blank\" href='https://academic.oup.com/ofid/article/7/10/ofaa430/5905033'>much later in September</a>. Also a <a target=\"_blank\" href=\"https://pbs.twimg.com/media/EomNL89XcAIcAjZ?format=jpg&name=large\">one-slide summary.</a>"
+        "headline": "SARS-CoV-2 Transmission and Infection at Overnight Camp in Georgia, USA",
+        "text": "SARS-CoV-2 Transmission and Infection Among Attendees of an Overnight Camp — Georgia, June 2020. 597 Georgia residents attended camp A. Median camper age was 12 years. 344 were tested and 260 (76%) were positive. The overall attack rate was 44% (260 of 597). <a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6931e1.htm'>Reported in MMWR journal in August</a>. See <a href='https://www.wired.com/story/a-summer-camp-covid-19-outbreak-offers-back-to-school-lessons/'>Wired Article</a> too."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.youtube.com/watch?v=59tQeL0ehbM",
+        "caption": "Clearing the Air Effectively",
+        "link": "https://www.youtube.com/watch?v=59tQeL0ehbM",
+        "credit": "NHK WORLD-JAPAN"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 6,
+        "day": 30
+      },
+      "text": {
+        "headline": "Japanese news - education around mitigating aerosol risk",
+        "text": " Key is ventilation. Japan assumed it was airborne from the very beginning. Hence their mask culture and focus on air flow. Here is how to ventilate a room quickly. See <a href='https://twitter.com/DrEricDing/status/1334638682414985217'>@DrEricDing tweet</a> too."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "",
+        "caption": "Adolescent with COVID-19 as the Source of an Outbreak at a 3-Week Family Gathering — Four States, June–July 2020",
+        "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6940e2.htm",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 10,
+        "day": 1
+      },
+      "text": {
+        "headline": "Adolescent with COVID-19 as the Source of an Outbreak at a 3-Week Family Gathering — Four States, June–July 2020",
+        "text": "Adolescent with COVID-19 as the Source of an Outbreak at a 3-Week Family Gathering — Four States, June–July 2020.  Adolescent was source of outbreak. Family members who visited the house but stayed outdoors were not infected. <a href='https://twitter.com/jmcrookston/status/1313281284249182208'>Link to Twitter thread</a>"
       }
     },
     {
@@ -227,37 +335,19 @@
     {
       "media": {
         "thumbnail": "",
-        "url": "https://cdn.thewire.in/wp-content/uploads/2020/08/24183424/coronavirus-4952102_1920-1600x1067.jpg",
-        "caption": "US CDC discusses possible COVID-19 aerosol transmission",
-        "link": "https://www.cdc.gov/coronavirus/2019-ncov/more/scientific-brief-sars-cov-2.html",
-        "credit": ""
+        "url": "https://user-images.githubusercontent.com/82182/101791159-1e086100-3afb-11eb-8cb1-c787c2c41b16.png",
+        "caption": "After four hours without safety measures",
+        "link": "https://english.elpais.com/society/2020-10-28/a-room-a-bar-and-a-class-how-the-coronavirus-is-spread-through-the-air.html",
+        "credit": "El Pais artwork"
       },
       "start_date": {
         "year": "2020",
         "month": 10,
-        "day": 5
+        "day": 28
       },
       "text": {
-        "headline": "Scientific Brief: SARS-CoV-2 and Potential Airborne Transmission",
-        "text": "Smaller droplets and particles (formed when small droplets dry very quickly in the airstream) can remain suspended for many minutes to hours and travel far from the source on air currents. "
-      }
-    },
-    {
-      "media": {
-        "thumbnail": "",
-        "url": "https://pbs.twimg.com/media/EopQAewW4AAlotN?format=jpg&name=small",
-        "caption": "CBS news feed pic",
-        "link": "https://www.cbc.ca/news/health/coronavirus-canada-aerosol-transmission-covid-19-1.5789906",
-        "credit": ""
-      },
-      "start_date": {
-        "year": "2020",
-        "month": 11,
-        "day": 4
-      },
-      "text": {
-        "headline": "Canada acknowledges aerosol transmission",
-        "text": "Official Guidance: \"SARS-CoV-2, the virus that causes COVID-19, spreads from an infected person to others through respiratory droplets and aerosols created when an infected person coughs, sneezes, sings, shouts, or talks,\" the updated guidance said. <br><br>\",The droplets vary in size from large droplets that fall to the ground rapidly (within seconds or minutes) near the infected person, to smaller droplets, sometimes called aerosols, which linger in the air under some circumstances.\""
+        "headline": "how the coronavirus is spread through the air",
+        "text": "Article: The risk of contagion is highest in indoor spaces but can be reduced by applying all available measures to combat infection via aerosols. Here is an overview of the likelihood of infection in three everyday scenarios, based on the safety measures used and the length of exposure."
       }
     },
     {
@@ -281,6 +371,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://pbs.twimg.com/media/EopQAewW4AAlotN?format=jpg&name=small",
+        "caption": "CBS news feed pic",
+        "link": "https://www.cbc.ca/news/health/coronavirus-canada-aerosol-transmission-covid-19-1.5789906",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 11,
+        "day": 4
+      },
+      "text": {
+        "headline": "Canada acknowledges aerosol transmission",
+        "text": "Official Guidance: \"SARS-CoV-2, the virus that causes COVID-19, spreads from an infected person to others through respiratory droplets and aerosols created when an infected person coughs, sneezes, sings, shouts, or talks,\" the updated guidance said. <br><br>\"The droplets vary in size from large droplets that fall to the ground rapidly (within seconds or minutes) near the infected person, to smaller droplets, sometimes called aerosols, which linger in the air under some circumstances.\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2df5e824-68d5-4b01-b10a-780a273ff63b_721x660.png",
         "caption": "After only 5 minutes sitting in proximity to spreader, a diner was infected 21 feet away",
         "link": "https://jkms.org/DOIx.php?id=10.3346/jkms.2020.35.e415",
@@ -293,7 +401,25 @@
       },
       "text": {
         "headline": "Infected in direct air flow in a Korean restaurant",
-        "text": "Study Conclusion: Droplet transmission can occur at a distance greater than 2 m if there is direct air flow from an infected person. Therefore, updated guidelines involving prevention, contact tracing, and quarantine for COVID-19 are required for control of this highly contagious disease."
+        "text": "Study Conclusion: Droplet transmission can occur at a distance greater than 2 m if there is direct air flow from an infected person. Therefore, updated guidelines involving prevention, contact tracing, and quarantine for COVID-19 are required for control of this highly contagious disease. A post linking to another post about this event: <a href=\"https://twitter.com/jmcrookston/status/1334132864078721026\">post 1 (@jmcrookston)</a>."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/101584992-c5d83e80-39d6-11eb-99c9-2737f87b3915.png",
+        "caption": "Wells curves modified by accounting for droplet cloud aerodynamics, thermodynamics, and droplet desiccation",
+        "link": "https://aip.scitation.org/doi/full/10.1063/5.0034032",
+        "credit": "Diagram from Chaudhuri, Basu &amp; Saha's study"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 12,
+        "day": 4
+      },
+      "text": {
+        "headline": "Analyzing the dominant SARS-CoV-2 transmission routes",
+        "text": "Study excerpt: At typical, air-conditioned yet quiescent indoor space, for average viral loading, cough droplets of initial diameter between 10 µm and 50 µm are found to have the highest infection probability. However, by the time they are inhaled, the diameters reduce to about 1/6th of their initial diameters"
       }
     }
   ]
