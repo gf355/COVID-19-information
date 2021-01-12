@@ -7,8 +7,6 @@ layout: page
 
 This site exists as a resource to outline that there has been scientific evidence for some time to support COVID-19 infection being driven by airborne/aerosol transmission. This is not new science, it is old science. The next pandemic should assume the same rather than waste months with policies that did not halt infections. 
 
-To learn more, follow these experts who study aerosol and are activey pushing the **COVID is airborne** agenda: **Prof Jose-Luis Jimenez**, **Prof Kimberly Prather** and **Prof Linsey Marr** who have been educating the world on the aerosol transmission nature of COVID-19. Their Twitter accounts - [@jljcolorado](https://twitter.com/jljcolorado), [@kprather88](https://twitter.com/kprather88), and [@linseymarr](https://twitter.com/linseymarr) - which you should follow.
-
 ## Three timelines are hosted on this microsite
 
 ### COVID-19 is Airborne (studies/events):
@@ -33,7 +31,7 @@ This is important because the world's default pandemic response should have been
 
 ## Now we know it's airborne
 
-If you want to make a contribution, take a look at our [GitHub site](https://github.com/its-airborne/timelines-site)
+If you want to make a contribution, take a look at our [GitHub site](https://gf355.github.io/COVID-19-information/)
 
 <div id="slideshow">
    <div>
