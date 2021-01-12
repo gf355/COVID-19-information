@@ -1,0 +1,339 @@
+{
+  "title": {
+    "media": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/070-face-with-medical-mask.svg/480px-070-face-with-medical-mask.svg.png",
+      "caption": "",
+      "credit": ""
+    },
+    "text": {
+      "headline": "Certains pays qui mettent leurs citoyens masqués au début de la pandémie - Q1 / 2020",
+      "text": "Certains pays ont ignoré très tôt le message de l'OMS «méfiez-vous des fomites» et ont mis en place un plan pour que leurs citoyens se masquent lorsqu'ils se mélangent avec d'autres."
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://img2.chinadaily.com.cn/images/202001/23/5e28caa8a3101282064d7d0b.jpeg",
+        "caption": "Des personnes portant un masque facial traversent une rue de Wuhan",
+        "link": "https://www.chinadaily.com.cn/a/202001/22/WS5e285cada310128217272d84.html",
+        "credit": "Photo/China Daily"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 1,
+        "day": 21
+      },
+      "text": {
+        "headline": "Wuhan: le gouvernement a exigé que toutes les personnes se trouvent dans les lieux publics - avec effet immédiat",
+        "text": "Le gouvernement de Wuhan a exigé que toutes les personnes présentes dans les lieux publics tels que les hôtels, les restaurants, les cinémas, les parcs, les centres commerciaux et les transports en commun portent des masques pour empêcher la propagation du nouveau coronavirus, selon une annonce faite mercredi soir.\n\nDes panneaux clairs devraient être installés aux entrées des lieux publics pour rappeler aux gens de porter des masques. Les personnes qui ne suivent pas les instructions, qui entrent en vigueur immédiatement, seront punies, selon l'annonce."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/103182555-07585d00-48a4-11eb-8f1d-9e1bad72cd8a.png",
+        "caption": "",
+        "link": "https://www.youtube.com/watch?v=wOPN5AHJ27E",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 1,
+        "day": 22
+      },
+      "text": {
+        "headline": "Hong Kong: la compagnie aérienne modifie sa politique permettant au personnel de porter des masques alors que le virus mortel se propage",
+        "text": "La compagnie aérienne de Hong Kong Cathay Pacific Airways a modifié sa politique pour permettre aux membres du personnel de porter des masques chirurgicaux sur toutes les routes. Auparavant n'autorisant les masques faciaux que sur des itinéraires sélectionnés, l'annonce l'a étendu à tous les itinéraires, après consultation des «autorités sanitaires»"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102718998-3dfe0880-42e3-11eb-920f-33d3a3c12d2b.png",
+        "caption": "Central Epidemic Command Center - Capture d'écran du CECC (Taiwan)",
+        "link": "https://www.cdc.gov.tw/En/Bulletin/Detail/fp11P_DipG9-nOlWpMcPzg?typeid=158",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 1,
+        "day": 23
+      },
+      "text": {
+        "headline": "Taïwan: 2 millions de masques distribués dans les magasins",
+        "text": "Plus de 2 millions de masques faciaux ont été remis aux quatre grandes chaînes de dépanneurs, pharmacies et canaux de distribution pendant deux jours consécutifs, avec des contrôles ponctuels des prix."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102719135-24a98c00-42e4-11eb-9cfa-16dd178fd5a0.png",
+        "caption": "Capture d'écran du ministère de la Santé et du Bien-être social (Taiwan)",
+        "link": "https://covid19.mohw.gov.tw/en/cp-4868-53742-206.html",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 1,
+        "day": 28
+      },
+      "text": {
+        "headline": "Taïwan: les pharmacies reçoivent la règle de 3 masques par personne",
+        "text": "Les pharmacies et les distributeurs médicaux agréés étaient autorisés à vendre au détail des masques faciaux (limité à 3 pièces par personne, 8 TWD / pièce). Chaque magasin appartenant aux quatre grandes chaînes de dépanneurs a reçu 500 pièces de masques chirurgicaux en vente chaque jour."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/103165588-c9125d80-4811-11eb-9a8c-6b470e5ed852.png",
+        "caption": "La journaliste Diane Leow montre aux Singapouriens comment utiliser les masques (30 janvier)",
+        "link": "https://www.channelnewsasia.com/news/singapore/face-masks-wuhan-virus-singapore-households-distribute-12369716",
+        "credit": "CNA - Channel News Asia"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 1,
+        "day": 30
+      },
+      "text": {
+        "headline": "Singapour: les ménages recevront 4 masques faciaux chacun au milieu des inquiétudes liées au virus",
+        "text": "M. Wong a déclaré que la distribution était un \"exercice ponctuel\" au cours duquel des masques provenant du stock national de Singapour étaient rendus directement au public. «Nous faisons cela pour assurer aux Singapouriens que chaque famille aura accès à des masques si un membre de votre famille en a vraiment besoin», a-t-il ajouté."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102811244-f8157300-43bc-11eb-8b1d-0b2d319d943d.png",
+        "caption": "",
+        "link": "https://www.straitstimes.com/asia/east-asia/wuhan-virus-chinese-goes-full-throttle-to-manufacture-masks-in-virus-fight",
+        "credit": "PHOTO: EPA-EFE"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 2,
+        "day": 1
+      },
+      "text": {
+        "headline": "Chine: les usines vont à plein régime pour fabriquer des masques dans la lutte contre les virus",
+        "text": "Tout le monde porte des masques, du personnel médical aux gens ordinaires, et les masques sont jetés tous les jours, donc la demande de masques a explosé."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102812572-2300c680-43bf-11eb-890c-bee06f0be342.png",
+        "caption": "Photo de la bibliothèque du gouverneur de Tokyo Yuriko Koike",
+        "link": "https://cn.reuters.com/article/instant-article/idUKKBN1ZW04R",
+        "credit": "REUTERS/Issei Kato"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 2,
+        "day": 2
+      },
+      "text": {
+        "headline": "Japon: le gouverneur de Tokyo, Yuriko Koike, demande aux citoyens de porter des masques",
+        "text": "Je voudrais que vous vous laviez correctement les mains et les doigts et que vous portiez des masques pour vous protéger. Il y a plusieurs façons de le faire, mais j'aimerais que vous commenciez par de si petites étapes pour le contrôler"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102810696-129b1c80-43bc-11eb-8cb7-dbab5554b220.png",
+        "caption": "",
+        "link": "https://www.bangkokpost.com/business/1849269/chinese-authorities-promote-face-masks-but-some-experts-question-them",
+        "credit": "Photo du Wall St Journal dans l'article du Bangkok Post"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 2,
+        "day": 3
+      },
+      "text": {
+        "headline": "Les autorités chinoises font la promotion des masques faciaux",
+        "text": "Deux provinces chinoises exigent désormais qu'elles soient portées en public. Les usines qui fabriquent les masques en Chine fonctionnent 24 heures sur 24 pour répondre à la demande."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102719205-ac8f9600-42e4-11eb-9b2c-3f4ac2d2efd4.png",
+        "caption": "Capture d'écran du ministère de la Santé et du Bien-être social (Taiwan)",
+        "link": "https://covid19.mohw.gov.tw/en/cp-4868-53766-206.html",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 2,
+        "day": 6
+      },
+      "text": {
+        "headline": "Taïwan: le plan de rationnement des masques v1 entre en vigueur",
+        "text": "Le plan de rationnement des masques 1.0 est entré en vigueur. Les particuliers doivent présenter une carte d'assurance maladie nationale (NHI) dans les pharmacies sous contrat pour s'inscrire et acheter des masques faciaux"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://s.abcnews.com/images/International/korea-1-gty-er-200227_hpMain_16x9_992.jpg",
+        "caption": "Un homme porte un masque et des lunettes alors qu'il fait la queue pour acheter des masques faciaux dans un bureau de poste",
+        "link": "https://abcnews.go.com/International/south-korea-takes-measures-face-masks-domestically-amid/story?id=69254114",
+        "credit": "Jung Yeon-Je/AFP/Getty Images"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 2,
+        "day": 27
+      },
+      "text": {
+        "headline": "La Corée du Sud prend des mesures pour avoir suffisamment de masques faciaux au pays",
+        "text": "\"Le gouvernement veillera à ce que 90% de la production totale de masques en Corée du Sud soient fournis dans le pays\", a déclaré jeudi Hong Nam-ki, le ministre des Finances du pays. \"Environ 140 entreprises qui produisent des masques peuvent fournir 10 millions de masques par jour, ce qui signifie que 9 millions de masques seront désormais disponibles pour les ventes nationales.\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/103165935-94080a00-4815-11eb-86ef-e538549e660c.png",
+        "caption": "Les gens portant des masques marchent dans la rue à Bangkok",
+        "link": "http://www.xinhuanet.com/english/2020-03/04/c_138843744.htm",
+        "credit": "(Xinhua/Rachen Sageamsak)"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 4
+      },
+      "text": {
+        "headline": "La Thaïlande fabrique 50 millions de masques en tissu à porter contre le COVID-19",
+        "text": "La Thaïlande fabrique jusqu'à 50 millions de masques en tissu qui seront fournis aux personnes du pays contre l'épidémie de COVID-19, a confirmé mercredi le ministre de l'Intérieur Anupong Paojinda."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://static.reuters.com/resources/r/?m=02&d=20200312&t=2&i=1502093289&r=LYNXMPEG2B0I4&w=600",
+        "caption": "",
+        "link": "https://uk.reuters.com/article/uk-health-coronavirus-thailand-masks/better-than-nothing-thailand-encourages-cloth-masks-amid-surgical-mask-shortage-idUKKBN20Z0V3",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 12
+      },
+      "text": {
+        "headline": "Thaïlande: les masques en tissu valent mieux que rien",
+        "text": "Les autorités sanitaires thaïlandaises encouragent les gens à fabriquer des masques en tissu chez eux pour se prémunir contre la propagation du coronavirus dans un contexte de pénurie de masques chirurgicaux. [Reuters]"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102728656-e4b6c900-4324-11eb-9a30-e0d37e81b2fb.png",
+        "caption": "Andrew Jeong a visité un site d'essai en Corée du Sud",
+        "link": "https://www.wsj.com/articles/south-korea-rations-face-masks-in-coronavirus-fight-11584283720",
+        "credit": "Denis Bosnic pour le Wall Street Journal"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 14
+      },
+      "text": {
+        "headline": "Corée du Sud: Rations masques à deux par personne",
+        "text": "Les responsables de la santé sud-coréens ont exhorté tous les citoyens, même en bonne santé, à porter des masques filtrés"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.praguemorning.cz/wp-content/uploads/2020/03/too-much-space-3.png",
+        "caption": "DameRousky.cz au moment du lancement",
+        "link": "https://www.praguemorning.cz/face-masks-damerousky/",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 15
+      },
+      "text": {
+        "headline": "République tchèque: lancement du portail national de fabrication de masques",
+        "text": "Le site Web 'DameRousky.cz' a recueilli des contacts pour les personnes qui pouvaient coudre des masques faciaux (à la fois gratuitement et à l'achat), offrir du matériel à coudre ou gérer un point de collecte où les gens peuvent récupérer les masques. Le <a href='https://damerousky.cz/'>site is still serving a need</a>. Voir également <a href='https://fashionunited.uk/news/fashion/thousands-of-czech-women-join-forces-to-sew-face-masks/2020031848048'>Des femmes tchèques unissent leurs forces pour coudre des masques faciaux</a> article."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://image.vietnamnews.vn/uploadvnnews/Article/2020/3/15/74516_01.jpg",
+        "caption": "Les touristes étrangers portent des masques pour arrêter la propagation du COVID-19",
+        "link": "https://vietnamnews.vn/society/653646/face-masks-required-for-all.html",
+        "credit": "VNA/VNS Photo Thành Đạt"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 16
+      },
+      "text": {
+        "headline": "Vietnam: masques faciaux obligatoires pour tous",
+        "text": "Tous les citoyens vietnamiens ainsi que les citoyens étrangers au Việt Nam doivent porter des masques faciaux dans les lieux publics où il y a beaucoup de monde, comme les supermarchés, les aéroports, les terminaux de bus ou les transports en commun."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://m.smedata.sk/api-media/media/image/spectator/5/61/6193615/6193615_300x.jpeg?rev=3",
+        "caption": "",
+        "link": "https://fashionunited.uk/news/fashion/thousands-of-czech-women-join-forces-to-sew-face-masks/2020031848048",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 18
+      },
+      "text": {
+        "headline": "Slovaquie: les masques seront obligatoires, de nouvelles mesures destinées principalement aux personnes âgées",
+        "text": "La Slovaquie a mis en œuvre un programme national de fabrication de masques, y compris l'envoi de ceux-ci gratuitement dans le pays. Assez rapidement, tout le pays serait dans des masques en tissu lors du mixage en public. En juillet, les règles ont été un peu assouplies et de nouveaux cas ont commencé à apparaître, mais ce n'est que fin septembre que les décès ont commencé à augmenter de manière significative."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://m.smedata.sk/api-media/media/image/spectator/5/61/6193615/6193615_300x.jpeg?rev=3",
+        "caption": "PM Igor Matovič annonce de nouvelles mesures",
+        "link": "https://spectator.sme.sk/c/22366501/masks-will-be-obligatory-new-measures-mainly-aimed-at-the-elderly.html",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 24
+      },
+      "text": {
+        "headline": "Slovaquie: les masques seront obligatoires, de nouvelles mesures destinées principalement aux personnes âgées",
+        "text": "La Slovaquie a mis en œuvre un programme national de fabrication de masques, y compris l'envoi de ceux-ci gratuitement dans le pays. Assez rapidement, tout le pays serait dans des masques en tissu lors du mixage en public. En juillet, les règles ont été un peu assouplies et de nouveaux cas ont commencé à apparaître, mais ce n'est que fin septembre que les décès ont commencé à augmenter de manière significative."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102809898-b257ab00-43ba-11eb-9963-65221158030b.png",
+        "caption": "",
+        "link": "https://www3.nhk.or.jp/nhkworld/en/news/ataglance/844",
+        "credit": "NHK image fixe de la vidéo"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 31
+      },
+      "text": {
+        "headline": "Japon: les microgouttelettes présentent un risque de coronavirus",
+        "text": "Une expérience de la NHK a révélé que les microgouttelettes émises lors des éternuements et de la toux et pendant les conversations restent dans l'air plus longtemps que les gouttelettes normales, posant potentiellement un risque particulièrement dangereux d'infection à coronavirus."
+      }
+    }
+  ]
+}

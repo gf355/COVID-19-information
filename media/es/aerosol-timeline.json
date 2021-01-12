@@ -1,0 +1,588 @@
+{
+  "title": {
+    "media": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SARS-CoV-2_without_background.png/800px-SARS-CoV-2_without_background.png",
+      "caption": "Esta ilustración, creada en el US Centers for Disease Control and Prevention (CDC)",
+      "credit": "CDC/ Alissa Eckert, MS; Dan Higgins, MAM"
+    },
+    "text": {
+      "headline": "Hecho: El mecanismo principal de la infección por COVID-19 es el aerosol.",
+      "text": "Consulte el mega documento de Preguntas frecuentes (FAQ): <a href='https://tinyurl.com/FAQ-aerosols'>https://tinyurl.com/FAQ-aerosols</a>"
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "thumbnail": "/media/twiceAsFar.png",
+        "url": "https://cdn.i-scmp.com/sites/default/files/d8/images/methode/2020/03/11/2367f83c-61fc-11ea-8e9f-2d196083a37c_972x_161511.jpg",
+        "caption": "El rojo es el paciente índice. Purple subió al autobús 30 minutos después de que se fuera el paciente índice.",
+        "link": "https://www.scmp.com/news/china/science/article/3074351/coronavirus-can-travel-twice-far-official-safe-distance-and-stay",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 1,
+        "day": 20
+      },
+      "text": {
+        "headline": "Foco: autobús de Hunan. COVID-19 puede viajar 'el doble de lejos' (4,5 m) y permanecer 30 minutos",
+        "text": "Artículo de periódico: El coronavirus puede viajar el doble de la \"distancia segura\" oficial y permanecer en el aire durante 30 minutos, según un estudio chino. Varios pasajeros se infectaron durante el viaje en autobús de cuatro horas. Uno se infectó DESPUÉS de que el paciente índice se bajó. Hay CCTV en todos los autobuses interurbanos chinos, por lo que sabían que el paciente índice nunca se levantaba de su asiento. <a href='https://www.scmp.com/news/china/science/article/3074351/coronavirus-can-travel-twice-far-official-safe-distance-and-stay'>Artículo en SCMP, informado a mediados de enero</a>. <a target='_blank' href='https://academic.oup.com/ofid/article/7/10/ofaa430/5905033'>Estudio reeditado en septiembre tras una retractación inicial</a>.<br><br><a href='https://twitter.com/jmcrookston/status/1308907690987528198'>Publicación de Twitter e informe original(@jmcrookston)</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://pbs.twimg.com/media/EWD_1l2XgAMpMZC?format=jpg&name=medium",
+        "caption": "Centro comercial chino",
+        "link": "https://wwwnc.cdc.gov/eid/article/26/6/20-0412_article",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 1,
+        "day": 20
+      },
+      "text": {
+        "headline": "Brote: propagación indirecta en un centro comercial chino",
+        "text": "Estudio: propagación indirecta en un centro comercial chino. Postuló fomite en ascensor o, lo adivinó, aerosol. <a href='https://wwwnc.cdc.gov/eid/article/26/6/20-0412_article'>Artículo en la Revista EID, publicado a mediados de marzo</a>. Ver <a href='https://twitter.com/jmcrookston/status/1252290275512377350'>publicación única (@jmcrookston)</a>."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "/media/restaurant.png",
+        "url": "https://user-images.githubusercontent.com/82182/101359313-fd8a9d80-3893-11eb-9432-4a5b7815e7ab.png",
+        "caption": "Diagrama que muestra la disposición de las mesas del restaurante y el flujo de aire del aire acondicionado en el lugar del brote",
+        "link": "https://www.medrxiv.org/content/10.1101/2020.04.16.20067728v1.full.pdf",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 1,
+        "day": 26
+      },
+      "text": {
+        "headline": "Brote en restaurante de Guangzhou, circulado por aire acondicionado",
+        "text": "Todos los infectados en un restaurante chino estaban sentados en el camino del aire acondicionado. <br> <br> Reportado en el CDC Journal en abril como <a href='https://wwwnc.cdc.gov/eid/article/26/7/20-0764_article'>Brote de COVID-19 asociado con aire acondicionado en restaurante, Guangzhou, China, 2020</a>. <a href='https://wwwnc.cdc.gov/eid/images/20-0764-F1.jpg'>Imagen de ese artículo</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102899304-9e678400-4462-11eb-84a1-105dc58275c8.png",
+        "caption": "",
+        "link": "http://www.xinhuanet.com/english/2020-02/08/c_138766344.htm",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 2,
+        "day": 8
+      },
+      "text": {
+        "headline": "El nuevo coronavirus puede transmitirse por aerosol: experto",
+        "text": "Zeng Qun, subdirector de la Oficina de Asuntos Civiles de Shanghai: 'Las rutas de la infección por el nuevo coronavirus incluyen la transmisión a través de aerosoles', y continúa diciendo que 'los residentes deben tomar una serie de medidas, incluida la cancelación de todas las actividades sociales y reuniones, abriendo ventanas regularmente para mantener la circulación del aire interior y centrarse en la desinfección del hogar ”."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://wwwnc.cdc.gov/eid/images/20-1274-F2.jpg",
+        "caption": "Diagrama que muestra la disposición de los infectados en el centro de llamadas, en azul.",
+        "link": "https://wwwnc.cdc.gov/eid/article/26/8/20-1274_article",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 8
+      },
+      "text": {
+        "headline": "Brote en un centro de llamadas en Seúl, Corea del Sur",
+        "text": "Brote en el centro de llamadas de Corea del Sur en Seúl. Reportado en el CDC Journal como <a href='https://wwwnc.cdc.gov/eid/article/26/8/20-1274_article'>Brote de enfermedad de coronavirus en el centro de llamadas, Corea del Sur</a> a finales de abril como lanzamiento anticipado. <a href='https://wwwnc.cdc.gov/eid/images/20-1274-F1.jpg'>imagen 1</a>, <a href='https://wwwnc.cdc.gov/eid/images/20-1274-F2.jpg'>imagen 2</a>."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7217084/bin/nihpp-2020.04.13.20063784-f0001.jpg",
+        "caption": "El gráfico muestra el factor de pulverización para tres coronavirus emergentes",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7217084/",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 4,
+        "day": 18
+      },
+      "text": {
+        "headline": "Estudio: Eficiencias de aerosol de tres coronavirus emergentes (incluido SARS-CoV-2)",
+        "text": "\"..... También cuantificamos la persistencia a largo plazo del SARS-CoV-2 y su capacidad para mantener la infectividad cuando se suspende en **aerosoles** hasta por 16 horas..\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.youtube.com/watch?v=2VIleZ2R0qE",
+        "caption": "Imágenes Schlieren con grabación de cámara con sensibilidad de alta velocidad (10,000 cuadros / segundo, cortesía de Bell Labs)",
+        "link": "",
+        "credit": "Cirugía del Hospital Universitario Mater Misericordiae"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 4,
+        "day": 29
+      },
+      "text": {
+        "headline": "Así es como estornudamos",
+        "text": "Video de alta velocidad que muestra un estornudo humano"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "/media/choir.png",
+        "url": "https://www.cdc.gov/mmwr/volumes/69/wr/social-media/mm6919e6_ChoirPracticeCOVID19_IMAGE_12May20_1200x675-medium.jpg",
+        "caption": "Mapa de asientos del Coro Skagit: distancia de infección",
+        "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e6.htm",
+        "credit": "CDC.gov"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 5,
+        "day": 15
+      },
+      "text": {
+        "headline": "Brote: personas en el coro de Skagit practican infectados a distancia",
+        "text": "Después de una práctica de coro de 2,5 horas a la que asistieron 61 personas, incluido un paciente índice sintomático, se produjeron 32 casos secundarios confirmados y 20 probables de COVID-19 (tasa de ataque = 53,3% a 86,7%); tres pacientes fueron hospitalizados y dos fallecieron. La transmisión probablemente fue facilitada por la proximidad (dentro de los 6 pies para algunos) durante la práctica y aumentada por el acto de cantar. Reportado en: <a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e6.htm'>CDC Journal May 15, 2020</a> así como un <a href='https://academic.oup.com/ofid/article/7/10/ofaa430/5905033'>estudio más amplio que estuvo disponible mucho más tarde en septiembre</a>. Ver también un <a href=\"https://twitter.com/jljcolorado/status/1335754175066611713\">resumen de una diapositiva (@jljcolorado)</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.cdc.gov/mmwr/volumes/69/wr/social-media/mm6920e2_ChurchEventsArkansasCOVID19_IMAGE_19May20_1200x675-medium.jpg",
+        "caption": "Alta tasa de ataque de COVID-19 en una iglesia en Arkansas",
+        "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6920e2.htm",
+        "credit": "CDC.gov"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 5,
+        "day": 16
+      },
+      "text": {
+        "headline": "Brote: alta tasa de ataque de COVID-19 en una iglesia en Arkansas",
+        "text": "Dos personas sintomáticas asistieron a los eventos de la iglesia del 6 al 8 de marzo. De eso, 35 o 92 personas se infectaron y 3 murieron. <a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6920e2.htm'>Reportado en la revista MMWR</a>."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "/media/reality.png",
+        "url": "https://ars.els-cdn.com/content/image/1-s2.0-S016041202031254X-gr1.jpg",
+        "caption": "Gotas golpeando al grupo, aerosoles yendo y viniendo",
+        "link": "https://www.sciencedirect.com/science/article/pii/S016041202031254X",
+        "credit": "Lidia Morawskaa & Junji Cao vi Elsevier"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 6
+      },
+      "text": {
+        "headline": "Frente a la realidad",
+        "text": "Estudio: Transmisión aérea del SARS-CoV-2: El mundo debe enfrentar la realidad - Lidia Morawska y Junji Caob. Ver también <a href='https://www.sciencedirect.com/science/article/pii/S0160412020317876'>Estudio de septiembre de 2020 de Morawskaa et al.</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "/media/cloud.mp4",
+        "caption": "Man sneezing",
+        "link": "https://www.reddit.com/r/CovIdiots/comments/h79eov/how_there_is_any_debate_will_always_be_a_wonder/",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 6,
+        "day": 12
+      },
+      "text": {
+        "headline": "Como hay debate?",
+        "text": "Publicación simple en redes sociales en Reddit, 'la página principal de Internet'. (Fuente desconocida)"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://media.wired.com/photos/5f21b7edfd6517d6ce008a7e/master/w_2560%2Cc_limit/Science_summercamp_83266659.jpg",
+        "caption": "Imagen genérica de tira y afloja, típica de los campistas",
+        "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6931e1.htm",
+        "credit": "PHOTOGRAPH: MARTIN BARRAUD/GETTY IMAGES"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 6,
+        "day": 17
+      },
+      "text": {
+        "headline": "Brote: transmisión e infección del SARS-CoV-2 en un campamento nocturno en Georgia, EE. UU.",
+        "text": "Transmisión e infección del SARS-CoV-2 entre los asistentes a un campamento nocturno - Georgia, junio de 2020. 597 residentes de Georgia asistieron al campamento A. La edad promedio de los campistas fue de 12 años. Se analizaron 344 y 260 (76%) dieron positivo. La tasa de ataque general fue del 44% (260 de 597). <a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6931e1.htm'>Reportado en la revista MMWR en agosto</a>. See <a href='https://www.wired.com/story/a-summer-camp-covid-19-outbreak-offers-back-to-school-lessons/'>Wired Artículo</a> too."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.youtube.com/watch?v=59tQeL0ehbM",
+        "caption": "Limpiar el aire con eficacia",
+        "link": "https://www.youtube.com/watch?v=59tQeL0ehbM",
+        "credit": "NHK WORLD-JAPAN"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 6,
+        "day": 30
+      },
+      "text": {
+        "headline": "Noticias japonesas - educación sobre la mitigación del riesgo de aerosoles",
+        "text": "La clave es la ventilación. Japón asumió que estaba en el aire desde el principio. De ahí su cultura de máscaras y su enfoque en el flujo de aire. A continuación se explica cómo ventilar una habitación rápidamente. Ver <a href='https://twitter.com/DrEricDing/status/1334638682414985217'>@DrEricDing tweet</a> too."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102695187-a4205800-421d-11eb-9d7c-60243676e463.png",
+        "caption": "Clip de video japonés sobre modelado por computadora de la naturaleza en aerosol de Covid-19",
+        "link": "https://www.cbsnews.com/news/coronavirus-japan-has-long-accepted-covids-airborne-spread-and-scientists-say-ventilation-is-key/",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 7,
+        "day": 13
+      },
+      "text": {
+        "headline": "Japón ha aceptado durante mucho tiempo la propagación aérea de COVID",
+        "text": "Artículo: \"Si la OMS reconoce lo que hicimos en Japón, tal vez en otras partes del mundo, cambiarán (sus procedimientos antivirales)\", dijo Shin-Ichi Tanabe, profesor del departamento de arquitectura de la prestigiosa Universidad Waseda de Japón. Fue uno de los 239 científicos internacionales que coescribieron una carta abierta a la OMS instando a la agencia de las Naciones Unidas a revisar sus directrices sobre cómo detener la propagación del virus."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://api.hub.jhu.edu/factory/sites/default/files/styles/full_width/public/masks_071620.jpg?itok=69yxQW9s",
+        "caption": "",
+        "link": "https://hub.jhu.edu/2020/07/16/evidence-coronavirus-is-airborne/",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 7,
+        "day": 16
+      },
+      "text": {
+        "headline": "La creciente evidencia sugiere que el coronavirus se transmite por el aire",
+        "text": "239 científicos firmaron una carta abierta a la organización transnacional instándola a considerar la evidencia emergente de que el virus puede considerarse transmitido por el aire y ajustar su orientación en consecuencia."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "/media/drops.png",
+        "url": "https://www.news-medical.net/image.axd?picture=2020%2f8%2f%40020.08.04.20168468v1.jpg&ts=20200810021637&ri=750",
+        "caption": "Instantáneas de la simulación de tos cargada de gotitas",
+        "link": "https://www.news-medical.net/news/20200810/SARS-CoV-2-droplets-travel-further-and-last-longer-than-thought-and-even-more-in-humid-air.aspx",
+        "credit": "Universidad de Twente y Universidad de Roma Tor Vergata"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 8,
+        "day": 10
+      },
+      "text": {
+        "headline": "Transmisión aérea",
+        "text": "Estudio: La transmisión aérea a larga distancia a través de la emisión de nubes de gotas turbulentas multifase es un factor esencial"
+      }
+    },
+    {
+      "media": {
+        "url": "https://images.theconversation.com/files/352604/original/file-20200812-20-31ojns.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=600&h=400&fit=crop&dpr=1",
+        "caption": "La fluorescencia inducida por láser es un método de uso de láseres para hacer que sustancias específicas emitan luz.",
+        "link": "https://theconversation.com/the-covid-19-virus-can-spread-through-the-air-heres-what-itll-take-to-detect-the-airborne-particles-140149",
+        "credit": "By Jan Pavelka/Wikimedia Commons, CC BY-SA"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 8,
+        "day": 14
+      },
+      "text": {
+        "headline": "Cuerpo de investigación creciente",
+        "text": "Artículo: Un creciente cuerpo de investigación muestra que el SARS-CoV-2, el virus que causa el COVID-19, puede transmitirse de persona a persona a través del aire. Los espacios interiores con poca ventilación en áreas donde el virus es prevalente son particularmente peligrosos"
+      }
+    },
+    {
+      "media": {
+        "url": "https://i.insider.com/5f43d80c42f43f001ddfe9a0?width=1000&format=jpeg&auto=webp",
+        "caption": "Generic pic of a Starbucks",
+        "link": "http://webcache.googleusercontent.com/search?q=cache:jgZQOBFDBg0J:www.cdc.go.kr/board/board.es%3Fmid%3Da30402000000%255C%26bid%3D0030%26act%3Dview%26list_no%3D368221%26tag%3D%26nPage%3D1+&cd=1&hl=en&ct=clnk&gl=uk",
+        "credit": "Dogyun Kim/Reuters"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 8,
+        "day": 24
+      },
+      "text": {
+        "headline": "Brote: 56 infectados en un Starbucks en Corea del Sur",
+        "text": "Estudio: 56 casos de coronavirus se vincularon a un Starbucks en Corea del Sur. Pero los empleados que usaban máscaras no se infectaron. Lee mas: <a target='_blank' href='https://www.businessinsider.com/56-got-coronavirus-south-korea-starbucks-mask-wearers-did-not-2020-8'>Business Insider</a> or <a target='_blank' href='https://fortune.com/2020/08/25/covid-outbreak-starbucks-seoul-masks-employees/'>Fortune.com</a> or <a target='_blank' href='https://edition.cnn.com/world/live-news/coronavirus-pandemic-08-25-20-intl/h_d88a8d6e5ee96dd569bd1be5d494de45'>CNN</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "/media/eh.png",
+        "url": "https://user-images.githubusercontent.com/82182/101012518-dca40e80-355a-11eb-9a56-21730fb85a82.png",
+        "caption": "Diapositiva del taller reciente de NASEM sobre transmisión aérea del SARS-CoV-2",
+        "link": "https://www.nationalacademies.org/event/08-26-2020/airborne-transmission-of-sars-cov-2-a-virtual-workshop",
+        "credit": "Dr. Jay C Butler (CDC)"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 8,
+        "day": 26
+      },
+      "text": {
+        "headline": "Taller de la Iniciativa de Asuntos de Salud Ambiental (EHMI)",
+        "text": "Sesión de taller: Gotas versus aerosoles y más para la pandemia. PDF descargables para 19 ponentes en el taller y un video de las actas."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/103123726-380a7d80-467d-11eb-8be3-5fd6f17553ab.png",
+        "caption": "Rutas de transmisión por desagües",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7464151/",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 9,
+        "day": 1
+      },
+      "text": {
+        "headline": "Aerotransportado en edificio de apartamentos a través del sistema de drenaje",
+        "text": "Estudio: Evidencia de #Airborne # SARSCoV2 viajando 12 pisos de un edificio apto a través del sistema de drenaje: más de 200 residentes en un ala de un rascacielos fueron evaluados, revelando 9 infecciones. Esas familias vivían en 3 pisos alineados verticalmente conectados por tuberías de drenaje en los baños. See <a href='https://twitter.com/AliNouriPhD/status/1342232561205047301'>@AliNouriPhD thread</>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "",
+        "caption": "",
+        "link": "https://news.v.daum.net/v/20200916030023673",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 9,
+        "day": 15
+      },
+      "text": {
+        "headline": "Brote: 26 de 27 personas infectadas en una pequeña sala de reuniones. Uno que escapó estaba enmascarado.",
+        "text": "26 de 27 personas en una pequeña sala de reuniones lo captan. El que escapó estaba enmascarado. <br><a href='https://news.v.daum.net/v/20200916030023673'>Informe de noticias en coreano</a>.<br><a href='https://twitter.com/jmcrookston/status/1306207694039248901'>Twitter thread</a>. <br>QUOTE: El día 29 del mes pasado, 26 de las 27 personas que asistieron a la 'Sesión informativa de Congchunghacho' celebrada en un edificio en Buk-gu, Daegu, fueron confirmadas como una nueva infección por coronavirus (Corona 19). La tasa de infección es un enorme 97%. La mayoría de ellos tenían entre 50 y 80 años y procedían de todo el país, incluidos Daegu, Gyeongbuk, Gyeongnam y Chungbuk. Después del contacto con ellos, la infección se extendió a todas las áreas. <br> <br> Jeong Mo (63, Sangju, Gyeongbuk) fue la única persona que evitó la infección incluso después de asistir a la sesión informativa ... Las personas se sentaron muy juntas en un estrecho espacio de unos 100m² con poca ventilación."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102145853-e6354c80-3e5f-11eb-8fc1-3f2f3ff2e5a7.png",
+        "caption": "Diagrama de la habitación con la representación de la cama del paciente y la ubicación del muestreador de aire",
+        "link": "https://www.ijidonline.com/article/S1201-9712(20)30739-6/fulltext",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 9,
+        "day": 16
+      },
+      "text": {
+        "headline": "El aire de la habitación de los pacientes con COVID-19 tenía los aerosoles cargados de virus",
+        "text": "El SARS-CoV-2 viable (infeccioso) estaba presente en aerosoles dentro de la habitación del hospital de pacientes con COVID-19. <br> <br> Se detectó virus en el aire en ausencia de procedimientos sanitarios que generen aerosoles. <br> <br> El cepa de virus detectada en los aerosoles emparejada con la cepa de virus aislada de un paciente con COVID-19 agudo."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "/media/cdc_retract.jpg",
+        "url": "https://storage.googleapis.com/afs-prod/media/d478dedd87ee43fea2784a7a3ef02c09/800.jpeg",
+        "caption": "El director de los Centros para el Control y la Prevención de Enfermedades, el Dr. Robert Redfield, se vuelve a poner la máscara después de hablar en una audiencia del subcomité de asignaciones del Senado",
+        "link": "https://apnews.com/article/virus-outbreak-archive-public-health-cfb43dd5a28dd449cd1100a067cfd112",
+        "credit": "AP Photo/Andrew Harnik"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 9,
+        "day": 22
+      },
+      "text": {
+        "headline": "Los CDC cambian, luego se retracta, la publicación web sobre cómo se propaga el virus",
+        "text": "Artículo: La principal agencia de salud pública de EE. UU. Provocó confusión al publicar, y luego eliminar, un aparente cambio en su posición [a los aerosoles] sobre la facilidad con la que el coronavirus puede propagarse de persona a persona a través del aire. <br> Pero los funcionarios de los Centros para el Control y la Prevención de Enfermedades dicen que su posición no ha cambiado realmente ..."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "",
+        "caption": "Adolescente con COVID-19 como origen de un brote en una reunión familiar de 3 semanas - Cuatro estados, junio-julio de 2020",
+        "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6940e2.htm",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 10,
+        "day": 1
+      },
+      "text": {
+        "headline": "Brote: Adolescente con COVID-19 Fuente del brote en una reunión familiar de 3 semanas",
+        "text": "Adolescente con COVID-19 como origen de un brote en una reunión familiar de 3 semanas - Cuatro estados, junio-julio de 2020. El adolescente fue la fuente del brote. Los familiares que visitaron la casa pero se quedaron al aire libre no se infectaron. <a href='https://twitter.com/jmcrookston/status/1313281284249182208'>Link to Twitter thread</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/101375306-1fd9e680-38a7-11eb-94c9-5a6d0529ddb5.png",
+        "caption": "Fotograma de la conversación de JAMA Network",
+        "link": "https://edhub.ama-assn.org/jn-learning/video-player/18554257",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 10,
+        "day": 26
+      },
+      "text": {
+        "headline": "El nuevo director de los CDC de EE. UU. Reconoce la naturaleza en aerosol del COVID-19",
+        "text": "“... aerosoles, creo, fue otra sorpresa. Pensamos que sabíamos cómo funcionan generalmente los virus respiratorios. Pensamos que iba a ser una gota, y resulta, ya sabes, mucho aerosol \". - Rochelle Walensky"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/101791159-1e086100-3afb-11eb-8cb1-c787c2c41b16.png",
+        "caption": "Después de cuatro horas sin medidas de seguridad",
+        "link": "https://english.elpais.com/society/2020-10-28/a-room-a-bar-and-a-class-how-the-coronavirus-is-spread-through-the-air.html",
+        "credit": "El Pais artwork"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 10,
+        "day": 28
+      },
+      "text": {
+        "headline": "Cómo se propaga el coronavirus por el aire",
+        "text": "Artículo: El riesgo de contagio es mayor en los espacios interiores, pero se puede reducir aplicando todas las medidas disponibles para combatir la infección a través de aerosoles. A continuación, se ofrece una descripción general de la probabilidad de infección en tres escenarios cotidianos, según las medidas de seguridad utilizadas y la duración de la exposición."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://pbs.twimg.com/media/EopQAewW4AAlotN?format=jpg&name=small",
+        "caption": "CBS news feed pic",
+        "link": "https://www.cbc.ca/news/health/coronavirus-canada-aerosol-transmission-covid-19-1.5789906",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 11,
+        "day": 4
+      },
+      "text": {
+        "headline": "Canadá reconoce la transmisión de aerosoles",
+        "text": "Orientación oficial: \"El SARS-CoV-2, el virus que causa el COVID-19, se transmite de una persona infectada a otras a través de gotitas respiratorias y aerosoles creados cuando una persona infectada tose, estornuda, canta, grita o habla\", la guía actualizada dijo. <br> <br> \"Las gotas varían en tamaño, desde gotas grandes que caen al suelo rápidamente (en segundos o minutos) cerca de la persona infectada, hasta gotas más pequeñas, a veces llamadas aerosoles, que permanecen en el aire en algunas circunstancias\"."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2df5e824-68d5-4b01-b10a-780a273ff63b_721x660.png",
+        "caption": "Después de solo 5 minutos sentado cerca del esparcidor, un comensal se infectó a 21 pies de distancia",
+        "link": "https://jkms.org/DOIx.php?id=10.3346/jkms.2020.35.e415",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 11,
+        "day": 23
+      },
+      "text": {
+        "headline": "Brote: infectado en el flujo de aire directo en un restaurante coreano",
+        "text": "Conclusión del estudio: La transmisión por gotitas puede ocurrir a una distancia superior a 2 m si hay un flujo de aire directo de una persona infectada. Por lo tanto, se requieren pautas actualizadas que involucren prevención, rastreo de contactos y cuarentena para COVID-19 para el control de esta enfermedad altamente contagiosa. Una publicación que enlaza con otra publicación sobre este evento: <a href=\"https://twitter.com/jmcrookston/status/1334132864078721026\">post 1 (@jmcrookston)</a>."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/101584992-c5d83e80-39d6-11eb-99c9-2737f87b3915.png",
+        "caption": "Curvas de pozos modificadas teniendo en cuenta la aerodinámica, termodinámica y desecación de las gotas.",
+        "link": "https://aip.scitation.org/doi/full/10.1063/5.0034032",
+        "credit": "Diagram from Chaudhuri, Basu &amp; Saha's study"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 12,
+        "day": 4
+      },
+      "text": {
+        "headline": "Análisis de las rutas de transmisión dominantes del SARS-CoV-2",
+        "text": "Extracto del estudio: En un espacio interior típico, con aire acondicionado pero en reposo, para una carga viral promedio, las gotas de tos con un diámetro inicial entre 10 µm y 50 µm tienen la mayor probabilidad de infección. Sin embargo, en el momento en que se inhalan, los diámetros se reducen a aproximadamente 1/6 de sus diámetros iniciales."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102808613-77547800-43b8-11eb-9ba9-6e0fb9a29a7d.png",
+        "caption": "box fan pic",
+        "link": "https://www.cdc.gov/coronavirus/2019-ncov/community/ventilation.html",
+        "credit": "Immo Wegmann / unsplash"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 12,
+        "day": 15
+      },
+      "text": {
+        "headline": "Ventilación en edificios: recomendación de los CDC",
+        "text": "Los CDC ahora recomiendan una buena ventilación para los edificios: aumento del aire exterior, mejor filtración, importancia del mantenimiento del sistema, purificadores de aire portátiles HEPA y purificadores de aire con irradiación germicida ultravioleta (UVGI)"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/05d942d9-3ffa-4e9f-a6af-e016d1bc029b/gr1.jpg",
+        "caption": "Estructura del edificio de apartamentos donde se produjeron los brotes de infección en dos líneas verticales",
+        "link": "https://www.ijidonline.com/article/S1201-9712(20)32558-3/fulltext",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 12,
+        "day": 16
+      },
+      "text": {
+        "headline": "Transmisión aérea a través de conductos de aire de apartamentos",
+        "text": "Posible transmisión #Airborne # SARSCoV2 a través de conductos de aire (agosto): después de una serie de infecciones, se realizaron pruebas a los 437 residentes de un edificio apto. 10 infecciones descubiertas, todas viviendo en diferentes pisos pero a lo largo de dos líneas verticales con aberturas a través de sus baños. Ver también <a href='https://twitter.com/AliNouriPhD/status/1341193351014572032'>Hilo de Twitter por (@AliNouriPhD)"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "    https://user-images.githubusercontent.com/82182/103385120-07996800-4af1-11eb-8074-68a0c62fafb8.png",
+        "caption": "",
+        "link": "https://www.nature.com/articles/s41598-020-80078-7",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 12,
+        "day": 30
+      },
+      "text": {
+        "headline": "La dinámica de fluidos de la infección transmitida por el aire por COVID-19 sugiere datos urgentes para un diseño científico de distanciamiento social",
+        "text": "Nuestros resultados muestran que una sola regla [como 6 pies] para el distanciamiento social puede no ser adecuada para proteger a las personas en diferentes entornos. <a href='https://twitter.com/EricTopol/status/1344297867578548225'>Hilo de Twitter por (@EricTopol)"
+      }
+    }
+  ]
+}

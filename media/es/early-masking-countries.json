@@ -1,0 +1,339 @@
+{
+  "title": {
+    "media": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/070-face-with-medical-mask.svg/480px-070-face-with-medical-mask.svg.png",
+      "caption": "",
+      "credit": ""
+    },
+    "text": {
+      "headline": "Algunos países que enmascararon a sus ciudadanos al comienzo de la pandemia - Q1/2020",
+      "text": "Algunos países ignoraron desde el principio los mensajes de la OMS de \"cuidado con los fómites\" y pusieron un plan para que sus ciudadanos se enmascararan cuando se mezclaran con otros."
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://img2.chinadaily.com.cn/images/202001/23/5e28caa8a3101282064d7d0b.jpeg",
+        "caption": "Personas con máscara facial cruzan una calle en Wuhan",
+        "link": "https://www.chinadaily.com.cn/a/202001/22/WS5e285cada310128217272d84.html",
+        "credit": "Photo/China Daily"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 1,
+        "day": 21
+      },
+      "text": {
+        "headline": "Wuhan: el gobierno ha requerido a todas las personas en lugares públicos - con efecto inmediato",
+        "text": "El gobierno de Wuhan ha exigido que todas las personas en lugares públicos como hoteles, restaurantes, cines, parques, centros comerciales y en el transporte público usen máscaras para evitar la propagación del nuevo coronavirus, según un anuncio realizado el miércoles por la noche.\n\nSe deben colocar carteles claros en las entradas de los lugares públicos para recordar a las personas que deben usar máscaras. Las personas que no sigan las instrucciones, que entran en vigor de inmediato, serán sancionadas, según el anuncio."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/103182555-07585d00-48a4-11eb-8f1d-9e1bad72cd8a.png",
+        "caption": "",
+        "link": "https://www.youtube.com/watch?v=wOPN5AHJ27E",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 1,
+        "day": 22
+      },
+      "text": {
+        "headline": "Hong Kong: La aerolínea cambia la política que permite al personal usar máscaras a medida que se propaga el virus mortal",
+        "text": "La aerolínea de Hong Kong, Cathay Pacific Airways, ha cambiado su política para permitir que los miembros del personal usen máscaras quirúrgicas en todas las rutas. Anteriormente solo permitía cubrirse el rostro en rutas seleccionadas, el anuncio lo expandió a todas las rutas, y fue después de consultar a las \"autoridades sanitarias\"."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102718998-3dfe0880-42e3-11eb-920f-33d3a3c12d2b.png",
+        "caption": "Central Epidemic Command Center - CECC (Taiwan) screenshot",
+        "link": "https://www.cdc.gov.tw/En/Bulletin/Detail/fp11P_DipG9-nOlWpMcPzg?typeid=158",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 1,
+        "day": 23
+      },
+      "text": {
+        "headline": "Taiwán: 2 millones de máscaras distribuidas en tiendas",
+        "text": "Se lanzaron más de 2 millones de mascarillas faciales a las cuatro principales cadenas de tiendas de conveniencia, farmacias y canales de distribución durante dos días consecutivos, con controles al azar de los precios.."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102719135-24a98c00-42e4-11eb-9cfa-16dd178fd5a0.png",
+        "caption": "Ministry of Health and Welfare (Taiwan) screenshot",
+        "link": "https://covid19.mohw.gov.tw/en/cp-4868-53742-206.html",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 1,
+        "day": 28
+      },
+      "text": {
+        "headline": "Taiwán: las farmacias reciben 3 mascarillas por persona.",
+        "text": "Las farmacias y los distribuidores médicos autorizados podían vender al por menor máscaras faciales (limitado a 3 piezas por persona, 8 TWD / pieza). Cada tienda perteneciente a las cuatro principales cadenas de tiendas de conveniencia recibió 500 piezas de mascarillas quirúrgicas para la venta todos los días.."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/103165588-c9125d80-4811-11eb-9a8c-6b470e5ed852.png",
+        "caption": "La periodista Diane Leow muestra a los singapurenses cómo usar máscaras (30 de enero)",
+        "link": "https://www.channelnewsasia.com/news/singapore/face-masks-wuhan-virus-singapore-households-distribute-12369716",
+        "credit": "CNA - Channel News Asia"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 1,
+        "day": 30
+      },
+      "text": {
+        "headline": "Singapur: los hogares recibirán 4 máscaras faciales cada uno en medio de preocupaciones por el virus",
+        "text": "Wong dijo que la distribución es un \"ejercicio de una sola vez\" en el que las máscaras de las existencias nacionales de Singapur se están lanzando directamente al público. “Estamos haciendo esto para asegurarles a los singapurenses que todas las familias tendrán acceso a máscaras si alguien de su familia realmente las necesita”, agregó."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102811244-f8157300-43bc-11eb-8b1d-0b2d319d943d.png",
+        "caption": "",
+        "link": "https://www.straitstimes.com/asia/east-asia/wuhan-virus-chinese-goes-full-throttle-to-manufacture-masks-in-virus-fight",
+        "credit": "PHOTO: EPA-EFE"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 2,
+        "day": 1
+      },
+      "text": {
+        "headline": "China: las fábricas hacen todo lo posible para fabricar máscaras en la lucha contra el virus",
+        "text": "Todo el mundo usa máscaras, desde el personal médico hasta la gente común, y las máscaras se desechan todos los días, por lo que la demanda de máscaras se ha disparado."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102812572-2300c680-43bf-11eb-890c-bee06f0be342.png",
+        "caption": "Library pic of Tokyo Governor Yuriko Koike",
+        "link": "https://cn.reuters.com/article/instant-article/idUKKBN1ZW04R",
+        "credit": "REUTERS/Issei Kato"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 2,
+        "day": 2
+      },
+      "text": {
+        "headline": "Japón: la gobernadora de Tokio Yuriko Koike dice que los ciudadanos usen máscaras",
+        "text": "Me gustaría que se lavaran las manos y los dedos adecuadamente y que usaran máscaras para protegerse. Hay muchas formas de hacerlo, pero me gustaría que comenzaran con pasos tan pequeños para controlarlo"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102810696-129b1c80-43bc-11eb-8cb7-dbab5554b220.png",
+        "caption": "",
+        "link": "https://www.bangkokpost.com/business/1849269/chinese-authorities-promote-face-masks-but-some-experts-question-them",
+        "credit": "Foto del Wall St Journal en el artículo del Bangkok Post"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 2,
+        "day": 3
+      },
+      "text": {
+        "headline": "Las autoridades chinas promueven las máscaras faciales",
+        "text": "Dos provincias chinas ahora requieren que se usen en público. Las fábricas que fabrican las máscaras en China funcionan las 24 horas del día para satisfacer la demanda."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102719205-ac8f9600-42e4-11eb-9b2c-3f4ac2d2efd4.png",
+        "caption": "Captura de pantalla del Ministerio de Salud y Bienestar (Taiwán)",
+        "link": "https://covid19.mohw.gov.tw/en/cp-4868-53766-206.html",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 2,
+        "day": 6
+      },
+      "text": {
+        "headline": "Taiwán: entra en vigor el plan de racionamiento de máscaras v1",
+        "text": "El plan de racionamiento de mascarillas 1.0 entró en vigor. Las personas deben presentar la tarjeta del seguro médico nacional (NHI) en las farmacias contratadas para registrarse y comprar mascarillas"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://s.abcnews.com/images/International/korea-1-gty-er-200227_hpMain_16x9_992.jpg",
+        "caption": "Un hombre usa una máscara y gafas mientras espera en la fila para comprar máscaras faciales en una oficina de correos",
+        "link": "https://abcnews.go.com/International/south-korea-takes-measures-face-masks-domestically-amid/story?id=69254114",
+        "credit": "Jung Yeon-Je/AFP/Getty Images"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 2,
+        "day": 27
+      },
+      "text": {
+        "headline": "Corea del Sur toma medidas para tener suficientes mascarillas a nivel nacional",
+        "text": "\"El gobierno se asegurará de que el 90% de la producción total de máscaras en Corea del Sur se suministre dentro del país\", dijo el jueves Hong Nam-ki, ministro de Finanzas de la nación. \"Alrededor de 140 empresas que producen máscaras pueden proporcionar 10 millones de máscaras al día, lo que significa que ahora 9 millones de máscaras estarán disponibles para las ventas nacionales\"."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/103165935-94080a00-4815-11eb-86ef-e538549e660c.png",
+        "caption": "Personas con máscaras caminan por la calle en Bangkok,",
+        "link": "http://www.xinhuanet.com/english/2020-03/04/c_138843744.htm",
+        "credit": "(Xinhua/Rachen Sageamsak)"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 4
+      },
+      "text": {
+        "headline": "Tailandia fabrica 50 millones de máscaras de tela para que las personas las usen contra el COVID-19",
+        "text": "Tailandia está fabricando hasta 50 millones de máscaras de tela que se proporcionarán a las personas en todo el país para que las usen contra el brote de COVID-19, confirmó el miércoles el ministro del Interior, Anupong Paojinda."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://static.reuters.com/resources/r/?m=02&d=20200312&t=2&i=1502093289&r=LYNXMPEG2B0I4&w=600",
+        "caption": "",
+        "link": "https://uk.reuters.com/article/uk-health-coronavirus-thailand-masks/better-than-nothing-thailand-encourages-cloth-masks-amid-surgical-mask-shortage-idUKKBN20Z0V3",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 12
+      },
+      "text": {
+        "headline": "Tailandia: las máscaras de tela son mejor que nada",
+        "text": "Las autoridades sanitarias de Tailandia están animando a las personas a fabricar máscaras faciales de tela en casa para protegerse contra la propagación del coronavirus en medio de la escasez de máscaras quirúrgicas. [Reuters]"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102728656-e4b6c900-4324-11eb-9a30-e0d37e81b2fb.png",
+        "caption": "Andrew Jeong visitó un sitio de prueba en Corea del Sur",
+        "link": "https://www.wsj.com/articles/south-korea-rations-face-masks-in-coronavirus-fight-11584283720",
+        "credit": "Denis Bosnic for the Wall Street Journal"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 14
+      },
+      "text": {
+        "headline": "Corea del Sur: máscaras de raciones a dos por persona",
+        "text": "Los funcionarios de salud de Corea del Sur han instado a todos los ciudadanos, incluso a los sanos, a usar máscaras filtradas."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.praguemorning.cz/wp-content/uploads/2020/03/too-much-space-3.png",
+        "caption": "DameRousky.cz at time of launch",
+        "link": "https://www.praguemorning.cz/face-masks-damerousky/",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 15
+      },
+      "text": {
+        "headline": "República Checa: lanzamiento del portal nacional de fabricación de máscaras",
+        "text": "El sitio web 'DameRousky.cz' recopiló contactos para personas que podían coser máscaras faciales (tanto gratis como para comprar), ofrecer material para coser o administrar un punto de recolección donde las personas pueden recoger las máscaras. El <a href='https://damerousky.cz/'>sitio sigue respondiendo a una necesidad</a>. Ver también <a href='https://fashionunited.uk/news/fashion/thousands-of-czech-women-join-forces-to-sew-face-masks/2020031848048'>Mujeres checas unen fuerzas para coser máscaras faciales</a> article."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://image.vietnamnews.vn/uploadvnnews/Article/2020/3/15/74516_01.jpg",
+        "caption": "Los turistas extranjeros usan máscaras faciales para detener la propagación del COVID-19",
+        "link": "https://vietnamnews.vn/society/653646/face-masks-required-for-all.html",
+        "credit": "VNA/VNS Photo Thành Đạt"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 16
+      },
+      "text": {
+        "headline": "Vietnam: se requieren máscaras faciales para todos",
+        "text": "Todos los ciudadanos vietnamitas, así como los ciudadanos extranjeros en Việt Nam, deben usar máscaras faciales en lugares públicos donde haya mucha gente, como supermercados, aeropuertos, terminales de autobuses o transporte público."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://m.smedata.sk/api-media/media/image/spectator/5/61/6193615/6193615_300x.jpeg?rev=3",
+        "caption": "",
+        "link": "https://fashionunited.uk/news/fashion/thousands-of-czech-women-join-forces-to-sew-face-masks/2020031848048",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 18
+      },
+      "text": {
+        "headline": "Eslovaquia: las máscaras serán obligatorias, nuevas medidas dirigidas principalmente a las personas mayores",
+        "text": "Eslovaquia implementó un programa nacional de fabricación de máscaras, incluido el envío gratuito de las que se encuentran en el país. Con bastante rapidez, todo el país estaría en máscaras de tela cuando se mezcla en público. Para julio, las reglas se relajaron un poco y comenzaron a aparecer nuevos casos, pero no fue hasta finales de septiembre que las muertes comenzaron a aumentar significativamente.."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://m.smedata.sk/api-media/media/image/spectator/5/61/6193615/6193615_300x.jpeg?rev=3",
+        "caption": "El primer ministro Igor Matovič anuncia nuevas medidas",
+        "link": "https://spectator.sme.sk/c/22366501/masks-will-be-obligatory-new-measures-mainly-aimed-at-the-elderly.html",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 24
+      },
+      "text": {
+        "headline": "Eslovaquia: las máscaras serán obligatorias, nuevas medidas dirigidas principalmente a las personas mayores",
+        "text": "Eslovaquia implementó un programa nacional de fabricación de máscaras, incluido el envío gratuito de las que se encuentran en el país. Con bastante rapidez, todo el país estaría en máscaras de tela cuando se mezcla en público. Para julio, las reglas se relajaron un poco y comenzaron a aparecer nuevos casos, pero no fue hasta finales de septiembre que las muertes comenzaron a aumentar significativamente."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102809898-b257ab00-43ba-11eb-9963-65221158030b.png",
+        "caption": "",
+        "link": "https://www3.nhk.or.jp/nhkworld/en/news/ataglance/844",
+        "credit": "NHK still from video"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 31
+      },
+      "text": {
+        "headline": "Japón: las microgotas presentan riesgo de coronavirus",
+        "text": "Un experimento de la NHK descubrió que las microgotas emitidas al estornudar y toser y durante las conversaciones permanecen en el aire durante más tiempo de lo normal, lo que presenta un riesgo potencialmente peligroso de infección por coronavirus."
+      }
+    }
+  ]
+}

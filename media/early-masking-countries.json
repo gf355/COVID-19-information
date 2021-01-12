@@ -1,0 +1,339 @@
+{
+  "title": {
+    "media": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/070-face-with-medical-mask.svg/480px-070-face-with-medical-mask.svg.png",
+      "caption": "",
+      "credit": ""
+    },
+    "text": {
+      "headline": "Some countries that put their citizens into masks at the beginning of the pandemic - Q1/2020",
+      "text": "Some countries ignored the WHO 'beware of fomites' messaging early on, and put a plan to get their citizens into masks when mixing eith others."
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://img2.chinadaily.com.cn/images/202001/23/5e28caa8a3101282064d7d0b.jpeg",
+        "caption": "People wearing face mask walk across a street in Wuhan",
+        "link": "https://www.chinadaily.com.cn/a/202001/22/WS5e285cada310128217272d84.html",
+        "credit": "Photo/China Daily"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 1,
+        "day": 21
+      },
+      "text": {
+        "headline": "Wuhan: Government has required all people in public places - effective immediately",
+        "text": "The Wuhan government has required all people in public places such as hotels, restaurants, cinemas, parks, shopping centers and on public transportation to wear masks to prevent the spread of the novel coronavirus, according to an announcement made on Wednesday night.\n\nClear signs should be set up at entrances of public places to remind people to wear masks. People who do not follow the instructions, which come into force immediately, will be punished, the announcement said."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/103182555-07585d00-48a4-11eb-8f1d-9e1bad72cd8a.png",
+        "caption": "",
+        "link": "https://www.youtube.com/watch?v=wOPN5AHJ27E",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 1,
+        "day": 22
+      },
+      "text": {
+        "headline": "Hong Kong: Airline shifts policy allowing staff to wear masks as deadly virus spreads",
+        "text": "Hong Kong carrier Cathay Pacific Airways has changed its policy to allow staff members to wear surgical masks on all routes. Previously only allowing face coverings on selected routes, the announcement expanded that to all routes, and was after consulting \"health authorities\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102718998-3dfe0880-42e3-11eb-920f-33d3a3c12d2b.png",
+        "caption": "Central Epidemic Command Center - CECC (Taiwan) screenshot",
+        "link": "https://www.cdc.gov.tw/En/Bulletin/Detail/fp11P_DipG9-nOlWpMcPzg?typeid=158",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 1,
+        "day": 23
+      },
+      "text": {
+        "headline": "Taiwan: 2 million masks distributed to stores",
+        "text": "Over 2 million face masks were released to the four major convenience store chains, pharmacies, and distribution channels over two consecutive days, with spot checks on prices."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102719135-24a98c00-42e4-11eb-9cfa-16dd178fd5a0.png",
+        "caption": "Ministry of Health and Welfare (Taiwan) screenshot",
+        "link": "https://covid19.mohw.gov.tw/en/cp-4868-53742-206.html",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 1,
+        "day": 28
+      },
+      "text": {
+        "headline": "Taiwan: Pharmacies given 3 masks per person rule",
+        "text": "Pharmacies and licensed medical distributors were permitted to retail sale of face masks (limited to 3 pieces per person, 8 TWD/piece). Each store belonging to the four major convenience store chains received 500 pieces of surgical masks for sale everyday."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/103165588-c9125d80-4811-11eb-9a8c-6b470e5ed852.png",
+        "caption": "Journalist Diane Leow shows Singaporeans how to use masks (Jan 30th)",
+        "link": "https://www.channelnewsasia.com/news/singapore/face-masks-wuhan-virus-singapore-households-distribute-12369716",
+        "credit": "CNA - Channel News Asia"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 1,
+        "day": 30
+      },
+      "text": {
+        "headline": "Singapore: households to get 4 face masks each amid worries over virus",
+        "text": "Mr Wong said the distribution is a \"one-time exercise\" where masks from Singapore’s national stockpile are being released directly to the public. “We are doing this to assure Singaporeans that every family will have access to masks if someone in your family really needs it,” he added."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102811244-f8157300-43bc-11eb-8b1d-0b2d319d943d.png",
+        "caption": "",
+        "link": "https://www.straitstimes.com/asia/east-asia/wuhan-virus-chinese-goes-full-throttle-to-manufacture-masks-in-virus-fight",
+        "credit": "PHOTO: EPA-EFE"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 2,
+        "day": 1
+      },
+      "text": {
+        "headline": "China: Factories go full throttle to manufacture masks in virus fight",
+        "text": "Everybody is wearing masks, from medical staff to ordinary people, and the masks are disposed of every day, so the demand for masks has exploded"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102812572-2300c680-43bf-11eb-890c-bee06f0be342.png",
+        "caption": "Library pic of Tokyo Governor Yuriko Koike",
+        "link": "https://cn.reuters.com/article/instant-article/idUKKBN1ZW04R",
+        "credit": "REUTERS/Issei Kato"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 2,
+        "day": 2
+      },
+      "text": {
+        "headline": "Japan: Tokyo governor Yuriko Koike says for citizens to wear masks",
+        "text": "I would like you to wash your hands and fingers properly, and wear masks to protect yourselves. There are many ways to do it, but I’d like you to start yourselves with such small steps to control it"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102810696-129b1c80-43bc-11eb-8cb7-dbab5554b220.png",
+        "caption": "",
+        "link": "https://www.bangkokpost.com/business/1849269/chinese-authorities-promote-face-masks-but-some-experts-question-them",
+        "credit": "Wall St Journal pic in Bankok Post article"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 2,
+        "day": 3
+      },
+      "text": {
+        "headline": "Chinese Authorities Promote Face Masks",
+        "text": "Two Chinese provinces now require them to be worn in public. Factories that make the masks in China are operating 24 hours a day to meet the demand."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102719205-ac8f9600-42e4-11eb-9b2c-3f4ac2d2efd4.png",
+        "caption": "Ministry of Health and Welfare (Taiwan) screenshot",
+        "link": "https://covid19.mohw.gov.tw/en/cp-4868-53766-206.html",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 2,
+        "day": 6
+      },
+      "text": {
+        "headline": "Taiwan: Mask rationing plan v1 comes into effect",
+        "text": "Mask rationing plan 1.0 came into effect. Individuals need to present National Health Insurance (NHI) Card at contracted pharmacies to register and purchase face masks"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://s.abcnews.com/images/International/korea-1-gty-er-200227_hpMain_16x9_992.jpg",
+        "caption": "A man wears a mask and goggles as he waits in line to buy face masks from a post office",
+        "link": "https://abcnews.go.com/International/south-korea-takes-measures-face-masks-domestically-amid/story?id=69254114",
+        "credit": "Jung Yeon-Je/AFP/Getty Images"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 2,
+        "day": 27
+      },
+      "text": {
+        "headline": "South Korea takes measures to have enough face masks domestically",
+        "text": "\"The government will make sure that 90% of total mask production in South Korea will be supplied within the country,\" Hong Nam-ki, the nation's finance minister, said Thursday. \"Around 140 companies that produce masks can provide 10 million masks a day, which means that 9 million masks will now be available for domestic sales.\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/103165935-94080a00-4815-11eb-86ef-e538549e660c.png",
+        "caption": "People wearing masks walk on street in Bangkok,",
+        "link": "http://www.xinhuanet.com/english/2020-03/04/c_138843744.htm",
+        "credit": "(Xinhua/Rachen Sageamsak)"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 4
+      },
+      "text": {
+        "headline": "Thailand manufacturing 50 million cloth masks for people to wear against COVID-19",
+        "text": "Thailand is manufacturing as many as 50 million cloth masks which will be provided for people nationwide to wear against the COVID-19 outbreak, confirmed Interior Minister Anupong Paojinda on Wednesday."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://static.reuters.com/resources/r/?m=02&d=20200312&t=2&i=1502093289&r=LYNXMPEG2B0I4&w=600",
+        "caption": "",
+        "link": "https://uk.reuters.com/article/uk-health-coronavirus-thailand-masks/better-than-nothing-thailand-encourages-cloth-masks-amid-surgical-mask-shortage-idUKKBN20Z0V3",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 12
+      },
+      "text": {
+        "headline": "Thailand: Cloth masks are better than nothing",
+        "text": "Thailand’s health authorities are encouraging people to make cloth face masks at home to guard against the spread of the coronavirus amid a shortage of surgical masks. [Reuters]"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102728656-e4b6c900-4324-11eb-9a30-e0d37e81b2fb.png",
+        "caption": "Andrew Jeong visited a test site in South Korea",
+        "link": "https://www.wsj.com/articles/south-korea-rations-face-masks-in-coronavirus-fight-11584283720",
+        "credit": "Denis Bosnic for the Wall Street Journal"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 14
+      },
+      "text": {
+        "headline": "South Korea: Rations masks to two per person",
+        "text": "South Korean health officials have urged all citizens, even healthy ones to wear filtered masks"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.praguemorning.cz/wp-content/uploads/2020/03/too-much-space-3.png",
+        "caption": "DameRousky.cz at time of launch",
+        "link": "https://www.praguemorning.cz/face-masks-damerousky/",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 15
+      },
+      "text": {
+        "headline": "Czech Republic: National mask-making portal launches",
+        "text": "Site 'DameRousky.cz' website collected contacts for people who could sew face masks (both for free and to buy), offer material for sewing or run a collection point where people can pick up the masks. The <a href='https://damerousky.cz/'>site is still serving a need</a>. See also <a href='https://fashionunited.uk/news/fashion/thousands-of-czech-women-join-forces-to-sew-face-masks/2020031848048'>Czech women join forces to sew face masks</a> article."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://image.vietnamnews.vn/uploadvnnews/Article/2020/3/15/74516_01.jpg",
+        "caption": "Foreign tourists wear face masks to stop the spread of COVID-19",
+        "link": "https://vietnamnews.vn/society/653646/face-masks-required-for-all.html",
+        "credit": "VNA/VNS Photo Thành Đạt"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 16
+      },
+      "text": {
+        "headline": "Vietnam: Face masks required for all",
+        "text": "All Vietnamese citizens as well as foreign citizens in Việt Nam to wear face masks in public places where there are many people, such as supermarkets, airports, bus terminals or public transport."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://m.smedata.sk/api-media/media/image/spectator/5/61/6193615/6193615_300x.jpeg?rev=3",
+        "caption": "",
+        "link": "https://fashionunited.uk/news/fashion/thousands-of-czech-women-join-forces-to-sew-face-masks/2020031848048",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 18
+      },
+      "text": {
+        "headline": "Slovakia: Masks will be obligatory, new measures mainly aimed at the elderly",
+        "text": "Slovakia implemented a national mask-making programme, including the mailing of those in-country for free. Fairly quickly the whole country would be in cloth masks when mixing in public. By July the the rules were relaxed a little and new cases began to creep, but it wasn't until late September that the deaths began to rise significantly."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://m.smedata.sk/api-media/media/image/spectator/5/61/6193615/6193615_300x.jpeg?rev=3",
+        "caption": "PM Igor Matovič announces new measures",
+        "link": "https://spectator.sme.sk/c/22366501/masks-will-be-obligatory-new-measures-mainly-aimed-at-the-elderly.html",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 24
+      },
+      "text": {
+        "headline": "Slovakia: Masks will be obligatory, new measures mainly aimed at the elderly",
+        "text": "Slovakia implemented a national mask-making programme, including the mailing of those in-country for free. Fairly quickly the whole country would be in cloth masks when mixing in public. By July the the rules were relaxed a little and new cases began to creep, but it wasn't until late September that the deaths began to rise significantly."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/102809898-b257ab00-43ba-11eb-9963-65221158030b.png",
+        "caption": "",
+        "link": "https://www3.nhk.or.jp/nhkworld/en/news/ataglance/844",
+        "credit": "NHK still from video"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 3,
+        "day": 31
+      },
+      "text": {
+        "headline": "Japan: Microdroplets pose coronavirus risk",
+        "text": "An NHK experiment found that microdroplets emitted while sneezing and coughing and during conversations stay in the air for longer than normal droplets, potentially posing a uniquely dangerous risk for coronavirus infection."
+      }
+    }
+  ]
+}
