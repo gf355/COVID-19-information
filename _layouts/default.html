@@ -14,13 +14,123 @@
         {% include template/foot.html %}
     </body>
     <script>
-        setTimeout(function() {
+
+        const ukNav = "<li class=\"nav-item\">\n" +
+            "  <a class=\"nav-link\" href=\"/\">\n" +
+            "    <img src='https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png'>" +
+            "  </a>\n" +
+            "</li>\n";
+
+        const frNav = "<li class=\"nav-item\">\n" +
+            "  <a class=\"nav-link\" href=\"/fr/\">\n" +
+            "    <img src='https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png'>\n" +
+            "  </a>\n" +
+            "</li>\n";
+
+        const spNav = "<li class=\"nav-item\">\n" +
+            "  <a class=\"nav-link\" href=\"/es/\">\n" +
+            "    <img src='https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png'>\n" +
+            "  </a>\n" +
+            "</li>\n";
+
+        if (window.location.href.indexOf("/fr/") > -1) {
+            $("#navbarContent").each(function (idx) {
+                $(this).html("<ul class=\"navbar-nav mr-auto\">\n" +
+                    "<li class=\"nav-item\">\n" +
+                    "  <a class=\"nav-link\" href=\"/fr/\">Accueil</a>\n" +
+                    "</li>\n" +
+                    "<li class=\"nav-item\">\n" +
+                    "  <a class=\"nav-link\" href=\"/fr/covid19-chronologie.html\">COVID-19 et aérosols</a>\n" +
+                    "</li>\n" +
+                    "<li class=\"nav-item\">\n" +
+                    "  <a class=\"nav-link\" href=\"/fr/chronologie-historique.html\">Maladies et antécédents d'aérosols</a>\n" +
+                    "</li>\n" +
+                    "<li class=\"nav-item\">\n" +
+                    "  <a class=\"nav-link\" href=\"/fr/premiers-pays-masqués.html\">Pays de masquage précoce</a>\n" +
+                    "</li>\n" +
+                    spNav +
+                    ukNav +
+                    "</ul>");
+            })
+        } else if (window.location.href.indexOf("/es/") > -1) {
+            $("#navbarContent").each(function (idx) {
+                $(this).html("<ul class=\"navbar-nav mr-auto\">\n" +
+                    "<li class=\"nav-item\">\n" +
+                    "  <a class=\"nav-link\" href=\"/es/\">Casa</a>\n" +
+                    "</li>\n" +
+                    "<li class=\"nav-item\">\n" +
+                    "  <a class=\"nav-link\" href=\"/es/línea-de-tiempo-covid19.html\">COVID-19 y aerosoles</a>\n" +
+                    "</li>\n" +
+                    "<li class=\"nav-item\">\n" +
+                    "  <a class=\"nav-link\" href=\"/es/cronología-histórica.html\">Enfermedades e historia de aerosoles</a>\n" +
+                    "</li>\n" +
+                    "<li class=\"nav-item\">\n" +
+                    "  <a class=\"nav-link\" href=\"/es/primeros-países-de-enmascaramiento.html\">Países de enmascaramiento temprano</a>\n" +
+                    "</li>\n" +
+                    frNav +
+                    ukNav +
+                    "</ul>");
+            })
+        } else {
+            $("#navbarContent ul").each(function (idx) {
+                $(this).append(
+                    frNav +
+                    spNav);
+            })
+        }
+
+        setTimeout(function () {
             document.getElementById('timeline-embed')
                 .querySelectorAll('a')
-                .forEach(function(elem) {
-                    elem.setAttribute('target','_blank');
-                    elem.setAttribute('rel','noopener');
+                .forEach(function (elem) {
+                    elem.setAttribute('target', '_blank');
+                    elem.setAttribute('rel', 'noopener');
                 })
+            $("a[href^='https://twitter.com']").each(function (idx) {
+                $(this).html("<svg width='17' height='17' " +
+                    "viewBox='328 355 335 276' " +
+                    "xmlns='http://www.w3.org/2000/svg'>  " +
+                    "<path d='M 630, 425 " +
+                    "A 195, 195 0 0 1 331, 600" +
+                    "A 142, 142 0 0 0 428, 570" +
+                    "A  70,  70 0 0 1 370, 523" +
+                    "A  70,  70 0 0 0 401, 521" +
+                    "A  70,  70 0 0 1 344, 455" +
+                    "A  70,  70 0 0 0 372, 460" +
+                    "A  70,  70 0 0 1 354, 370" +
+                    "A 195, 195 0 0 0 495, 442" +
+                    "A  67,  67 0 0 1 611, 380" +
+                    "A 117, 117 0 0 0 654, 363" +
+                    "A  65,  65 0 0 1 623, 401" +
+                    "A 117, 117 0 0 0 662, 390" +
+                    "A  65,  65 0 0 1 630, 425 Z'    " +
+                    "style='fill:#3BA9EE;'/>" +
+                    "</svg>" + $(this).html());
+            });
+            $(".tl-media-content").each(function (idx) {
+                $(this)
+                    .mouseenter(function() {
+                        $(this).css("border","2px solid blue")
+                    })
+                    .mouseleave(function() {
+                        $(this).css("border","2px solid white")
+                    });
+                $(this).css("border","2px solid white")
+            });
+
         }, 2000);
+
+        $("#slideshow > div:gt(0)").hide();
+        setInterval(function() {
+            $('#slideshow > div:first')
+                .fadeOut(2000)
+                .next()
+                .fadeIn(2000)
+                .end()
+                .appendTo('#slideshow');
+        },  3000);
+
+
+
     </script>
 </html>
