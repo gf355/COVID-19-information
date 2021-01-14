@@ -5,7 +5,7 @@ For more information, check the information below.
 
 # Contribution
 
-Please fill this form https://forms.gle/TKtohgTFgXje1RVp9 to sign up to be a pround contributor of this project!
+We are looking for more volunteers. Please fill this form https://forms.gle/TKtohgTFgXje1RVp9 to sign up to be a pround contributor of this project!
 
 # Add/modify events to this timeline via pull requests
 
