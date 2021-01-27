@@ -406,6 +406,25 @@
     },
     {
       "media": {
+        "thumbnail": "",
+        "url": "https://cdn.statcdn.com/Infographic/images/normal/21095.jpeg",
+        "caption": "statista.com: South Korea within reach of 'Zero COVID' at the end Apr 2020",
+        "link": "https://news.v.daum.net/v/20200916030023673",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 9,
+        "day": 16,
+        "hour": 12
+      },
+      "text": {
+        "headline": "Alone voice out of 27... \"I wore a KF94 mask\"",
+        "text": "Infection rate is a whopping 97% for an hour-long meeting - everyone without a mask was infected, and one person with a mask was not affected. Many people started the meeting in masks, but all bar one took them of as it progressed [Korean]"
+      }
+    },
+    {
+      "media": {
         "thumbnail": "/media/cdc_retract.jpg",
         "url": "https://storage.googleapis.com/afs-prod/media/d478dedd87ee43fea2784a7a3ef02c09/800.jpeg",
         "caption": "Centers for Disease Control and Prevention Director Dr. Robert Redfield puts his mask back on after speaking at a Senate Appropriations subcommittee hearing",
@@ -563,7 +582,7 @@
       },
       "text": {
         "headline": "Tianjin China: Injection in elevator holding an aerosol cloud",
-        "text": "The infected person coughed in an elevator, and the neighbor entered without a mask two minutes later and became infected! Other incidents too."
+        "text": "The infected person coughed in an elevator, and the neighbor entered without a mask two minutes later and became infected! Other incidents too. [Unconfirmed - waiting on formal study]"
       }
     },
     {
@@ -659,7 +678,7 @@
     {
       "media": {
         "thumbnail": "",
-        "url": "    https://user-images.githubusercontent.com/82182/103385120-07996800-4af1-11eb-8074-68a0c62fafb8.png",
+        "url": "https://user-images.githubusercontent.com/82182/103385120-07996800-4af1-11eb-8074-68a0c62fafb8.png",
         "caption": "",
         "link": "https://www.nature.com/articles/s41598-020-80078-7",
         "credit": ""
@@ -672,6 +691,24 @@
       "text": {
         "headline": "Fluid dynamics of COVID-19 airborne infection suggests urgent data for a scientific design of social distancing",
         "text": "Our results show that a single rule [like 6 feet] for social distancing may not be adequate to protect individuals in different environments. <a href='https://twitter.com/EricTopol/status/1344297867578548225'>Twitter thread by (@EricTopol)"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/105900579-27e71480-6014-11eb-9e1b-2efb683fe281.png",
+        "caption": "",
+        "link": "https://www.liebertpub.com/doi/10.1089/jamp.2020.1616",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 1,
+        "day": 28
+      },
+      "text": {
+        "headline": "Breathing Is Enough: For the Spread of Influenza Virus and SARS-CoV-2 by Breathing Only",
+        "text": "Conclusion after literature search: [Flu and SARS-CoV-2] aerosol particles are difficult to filter out of the air; because of their physical properties, new strategies must be developed to protect people from these virus aerosols."
       }
     }
   ]
