@@ -5,7 +5,7 @@ For more information, check the information below.
 
 # Contribution
 
-We are looking for more volunteers. Please fill this form https://forms.gle/TKtohgTFgXje1RVp9 to sign up to be a pround contributor of this project!
+We are looking for more volunteers. Please fill [this google form](https://forms.gle/TKtohgTFgXje1RVp9) to sign up to be a pround contributor of this project!
 
 # Add/modify events to this timeline via pull requests
 
@@ -21,13 +21,13 @@ To include pictures or videos to the timeline, add the file to https://github.co
 
 1. https://gf355.github.io/COVID-19-information/covid19-timeline.html
 2. https://gf355.github.io/COVID-19-information/historical-timeline.html
-3. https://gf355.github.io/COVID-19-information/historical-timeline.html
+3. https://gf355.github.io/COVID-19-information/early-masking-countries.html
 
 # Supporting Canadian frontline nurses
 
-The purpose of creating the aerosol timeline was to use scientific evidence of COVID-19 aerosol transmission to support Canadian frontline nurses, who works diligently since the start of the pandemic, but are poorly protected. For more information, please refer to this article: https://nursesunions.ca/governments-must-update-their-guidance-for-health-care-workers-to-recognize-and-respond-to-the-science-on-covid-19-transmission/ 
+One of the purposes of creating the aerosol timeline was to use scientific evidence of COVID-19 aerosol transmission to support Canadian frontline nurses, who works diligently since the start of the pandemic, but are poorly protected. For more information, please refer to [this article](https://nursesunions.ca/governments-must-update-their-guidance-for-health-care-workers-to-recognize-and-respond-to-the-science-on-covid-19-transmission/). 
 
-Take actions now to support Canadian frontline healthcare workers! https://act.newmode.net/action/cfnu/take-action-protect-health-care-workers
+Take actions now to support Canadian frontline healthcare workers! Click on [this](https://act.newmode.net/action/cfnu/take-action-protect-health-care-workers) link to send an e-mail to Prime Minister Justin Trudeau, federal Minister of Health Patty Hajdu and your Member of Parliament!
 
 # Sign this petition
 
