@@ -61,7 +61,7 @@
         "day": 26
       },
       "text": {
-        "headline": "Outbreak in Guangzhou restaurant, circulated by air conditioning",
+        "headline": "Outbreak: Guangzhou restaurant, circulated by air conditioning",
         "text": "Everybody infected at a Chinese restaurant was sitting in the path of the air conditioning.<br><br>Reported in the CDC Journal in April as <a href='https://wwwnc.cdc.gov/eid/article/26/7/20-0764_article'>COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020</a>. <a href='https://wwwnc.cdc.gov/eid/images/20-0764-F1.jpg'>Picture from that article</a>"
       }
     },
@@ -79,7 +79,7 @@
         "day": 8
       },
       "text": {
-        "headline": "Novel coronavirus can transmit via aerosol: expert",
+        "headline": "Novel coronavirus can transmit via aerosol",
         "text": "Zeng Qun, deputy head of Shanghai Civil Affairs Bureau: 'The routes of the novel coronavirus infection include transmission via aerosol', and goes on to say 'residents should take a series of measures including canceling all social activities and gatherings, opening windows regularly to maintain the circulation of indoor air and focusing on household disinfection.'"
       }
     },
@@ -97,8 +97,8 @@
         "day": 8
       },
       "text": {
-        "headline": "Outbreak at call centre in Seoul, South Korea",
-        "text": "Outbreak at South Korean call centre in Seoul. Reported in the CDC Journal as <a href='https://wwwnc.cdc.gov/eid/article/26/8/20-1274_article'>Coronavirus Disease Outbreak in Call Center, South Korea</a> in late April as early release. <a href='https://wwwnc.cdc.gov/eid/images/20-1274-F1.jpg'>Picture 1</a>, <a href='https://wwwnc.cdc.gov/eid/images/20-1274-F2.jpg'>picture 2</a>."
+        "headline": "Outbreak: Call centre in Seoul, South Korea",
+        "text": "Outbreak at South Korean call centre in Seoul. 1143 people tested for COVID-19. 97 had confirmed cases. 94 were working in an 11th floor call centre with 216 employees, which is a 43.5% attack rate (95% CI 36.9-50.4%). Of the 97 positives, only 4 remained asymptomatic within 14 days. No secondary infections.<br><br>Reported in the CDC Journal as <a href='https://wwwnc.cdc.gov/eid/article/26/8/20-1274_article'>Coronavirus Disease Outbreak in Call Center, South Korea</a> in late April as early release. <a href='https://wwwnc.cdc.gov/eid/images/20-1274-F1.jpg'>Picture 1</a>, <a href='https://wwwnc.cdc.gov/eid/images/20-1274-F2.jpg'>picture 2</a>."
       }
     },
     {
@@ -116,7 +116,7 @@
       },
       "text": {
         "headline": "Study: Aerosol efficiencies of three emergent coronaviruses (incl SARS-CoV-2)",
-        "text": "\"..... We also quantified the long-term persistence of SARS-CoV-2 and its ability to maintain infectivity when suspended in **aerosols** for up to 16 hours.\""
+        "text": "'..... We also quantified the long-term persistence of SARS-CoV-2 and its ability to maintain infectivity when suspended in **aerosols** for up to 16 hours.'"
       }
     },
     {
@@ -151,8 +151,8 @@
         "day": 15
       },
       "text": {
-        "headline": "Outbreak: People at Skagit choir practice infected at distance",
-        "text": "Following a 2.5-hour choir practice attended by 61 people, including a symptomatic index patient, 32 confirmed and 20 probable secondary COVID-19 cases occurred (attack rate = 53.3% to 86.7%); three patients were hospitalized, and two died. Transmission was likely facilitated by close proximity (within 6 feet for some) during practice and augmented by the act of singing. Reported in: <a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e6.htm'>CDC Journal May 15, 2020</a> as well as a <a href='https://academic.oup.com/ofid/article/7/10/ofaa430/5905033'>larger study that was available much later in September</a>. See also a <a href=\"https://twitter.com/jljcolorado/status/1335754175066611713\">one-slide summary (@jljcolorado)</a>"
+        "headline": "Outbreak: Skagit choir attendees infected at a distance",
+        "text": "Following a 2.5-hour choir practice attended by 61 people, including a symptomatic index patient, 32 confirmed and 20 probable secondary COVID-19 cases occurred (attack rate = 53.3% to 86.7%); three patients were hospitalized, and two died. Transmission was likely facilitated by close proximity (within 6 feet for some) during practice and augmented by the act of singing. Reported in: <a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e6.htm'>CDC Journal May 15, 2020</a> as well as a <a href='https://academic.oup.com/ofid/article/7/10/ofaa430/5905033'>larger study that was available much later in September</a>. See also a <a href='https://twitter.com/jljcolorado/status/1335754175066611713'>one-slide summary (@jljcolorado)</a>"
       }
     },
     {
@@ -169,8 +169,8 @@
         "day": 16
       },
       "text": {
-        "headline": "Outbreak: High COVID-19 attack rate at a Church in Arkensas",
-        "text": "Two symptomatic people attended church events March 6-8. From that, 35 or 92 people were infected and 3 died. <a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6920e2.htm'>Reported in the MMWR journal</a>."
+        "headline": "Outbreak: High COVID-19 attack rate at a church in Arkensas",
+        "text": "Two symptomatic people attended church events March 6-8. From that, 35 of 92 people were infected and 3 died. <br><br><a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6920e2.htm'>Reported in the MMWR journal</a>."
       }
     },
     {
@@ -188,6 +188,24 @@
       "text": {
         "headline": "Facing reality",
         "text": "Study: Airborne transmission of SARS-CoV-2: The world should face the reality - Lidia Morawska and Junji Caob. See also <a href='https://www.sciencedirect.com/science/article/pii/S0160412020317876'>September 2020 study from Morawskaa et al</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/107284789-2ecf4780-6a56-11eb-8cca-521a2545f1c5.png",
+        "caption": "Light scattering observation of airborne speech droplet nuclei, ",
+        "link": "https://www.pnas.org/content/117/22/11875",
+        "credit": "Stadnytskyi et al, 2020"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 6,
+        "day": 2
+      },
+      "text": {
+        "headline": "The airborne lifetime of small speech droplets",
+        "text": "We estimate that 1 min of loud speaking generates at least 1,000 virion-containing droplet nuclei that remain airborne for more than 8 min. These therefore could be inhaled by others and, according to independent action hypothesis, trigger a new SARS-CoV-2 infection."
       }
     },
     {
@@ -222,7 +240,7 @@
         "day": 17
       },
       "text": {
-        "headline": "Outbreak: SARS-CoV-2 Transmission and Infection at Overnight Camp in Georgia, USA",
+        "headline": "Outbreak: SARS-CoV-2 infection at overnight camp in Georgia, USA",
         "text": "SARS-CoV-2 Transmission and Infection Among Attendees of an Overnight Camp — Georgia, June 2020. 597 Georgia residents attended camp A. Median camper age was 12 years. 344 were tested and 260 (76%) were positive. The overall attack rate was 44% (260 of 597). <a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6931e1.htm'>Reported in MMWR journal in August</a>. See <a href='https://www.wired.com/story/a-summer-camp-covid-19-outbreak-offers-back-to-school-lessons/'>Wired Article</a> too."
       }
     },
@@ -259,7 +277,7 @@
       },
       "text": {
         "headline": "Japan has long accepted COVID's airborne spread",
-        "text": "Article: \"If the WHO recognizes what we did in Japan, then maybe in other parts of the world, they will change (their antiviral procedures),\" said Shin-Ichi Tanabe, a professor in the architecture department of Japan's prestigious Waseda University. He was one of the 239 international scientists who co-wrote an open letter to the WHO urging the United Nations agency to revise its guidelines on how to stop the virus spreading"
+        "text": "Article: 'If the WHO recognizes what we did in Japan, then maybe in other parts of the world, they will change (their antiviral procedures),' said Shin-Ichi Tanabe, a professor in the architecture department of Japan's prestigious Waseda University. He was one of the 239 international scientists who co-wrote an open letter to the WHO urging the United Nations agency to revise its guidelines on how to stop the virus spreading."
       }
     },
     {
@@ -328,8 +346,8 @@
         "day": 24
       },
       "text": {
-        "headline": "Outbreak: 56 infected in a Starbucks in South Korea",
-        "text": "Study: 56 coronavirus cases were linked to a Starbucks in South Korea. But employees who were wearing masks didn't get infected. Read More: <a target='_blank' href='https://www.businessinsider.com/56-got-coronavirus-south-korea-starbucks-mask-wearers-did-not-2020-8'>Business Insider</a> or <a target='_blank' href='https://fortune.com/2020/08/25/covid-outbreak-starbucks-seoul-masks-employees/'>Fortune.com</a> or <a target='_blank' href='https://edition.cnn.com/world/live-news/coronavirus-pandemic-08-25-20-intl/h_d88a8d6e5ee96dd569bd1be5d494de45'>CNN</a>"
+        "headline": "Outbreak: South Korean Starbucks - 56 infected",
+        "text": "Study: 56 coronavirus cases were linked to a Starbucks in South Korea. But employees who were wearing masks didn't get infected.<br><br>Read More: <a target='_blank' href='https://www.businessinsider.com/56-got-coronavirus-south-korea-starbucks-mask-wearers-did-not-2020-8'>Business Insider</a> or <a target='_blank' href='https://fortune.com/2020/08/25/covid-outbreak-starbucks-seoul-masks-employees/'>Fortune.com</a> or <a target='_blank' href='https://edition.cnn.com/world/live-news/coronavirus-pandemic-08-25-20-intl/h_d88a8d6e5ee96dd569bd1be5d494de45'>CNN</a>"
       }
     },
     {
@@ -419,7 +437,7 @@
         "hour": 12
       },
       "text": {
-        "headline": "Alone voice out of 27... \"I wore a KF94 mask\"",
+        "headline": "Alone voice out of 27... 'I wore a KF94 mask'",
         "text": "Infection rate is a whopping 97% for an hour-long meeting - everyone without a mask was infected, and one person with a mask was not affected. Many people started the meeting in masks, but all bar one took them of as it progressed [Korean]"
       }
     },
@@ -457,6 +475,24 @@
       "text": {
         "headline": "Outbreak: Adolescent with COVID-19 Source of Outbreak at 3-Week Family Gathering",
         "text": "Adolescent with COVID-19 as the Source of an Outbreak at a 3-Week Family Gathering — Four States, June–July 2020.  Adolescent was source of outbreak. Family members who visited the house but stayed outdoors were not infected. <a href='https://twitter.com/jmcrookston/status/1313281284249182208'>Link to Twitter thread</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.cdc.gov/mmwr/volumes/69/wr/social-media/mm6940e2_FamilyGatheringCOVID19_IMAGE_05Oct20_Social_1200x675-medium.jpg",
+        "caption": "",
+        "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6940e2.htm",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 10,
+        "day": 9
+      },
+      "text": {
+        "headline": "13 year old kid spreads it to 11 more in family",
+        "text": "Index case was 13 y.o. Spread to 11 more. [ed: kids transmit]. Twelve of the 14 who stayed INSIDE at the house (sleeping there) caught it. Six who came to the house, but remained distant outdoors did NOT. [ed: one more for indoor = bad, outdoor = good]. Via <a href='https://twitter.com/jmcrookston/status/1313281284249182208'>@jmcrookston</a>"
       }
     },
     {
@@ -534,6 +570,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://www.cdc.gov/mmwr/volumes/69/wr/social-media/mm6943a4_HighSchoolSummerCampCOVID19_IMAGE_30Oct20_1200x675-medium.jpg",
+        "caption": "",
+        "link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6943a4.htm",
+        "credit": "CGC.GOV"
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 10,
+        "day": 30
+      },
+      "text": {
+        "headline": "Outbreak at an Overnight Summer School Retreat",
+        "text": "July 2–August 11, 2020, an outbreak of coronavirus disease 2019 (COVID-19) occurred at a boys’ overnight summer school retreat in Wisconsin. There was a 76% infection rate.<br><br>See <a href='https://twitter.com/jmcrookston/status/1356940611870425088'>76% attack rate sure doesn't look like your grandpa's flu now does it? thread by @jmcrookston<a/>."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://pbs.twimg.com/media/EopQAewW4AAlotN?format=jpg&name=small",
         "caption": "CBS news feed pic",
         "link": "https://www.cbc.ca/news/health/coronavirus-canada-aerosol-transmission-covid-19-1.5789906",
@@ -564,7 +618,7 @@
       },
       "text": {
         "headline": "Outbreak: Infected in direct air flow in a Korean restaurant",
-        "text": "Study conclusion: Droplet transmission can occur at a distance greater than 2 m if there is direct air flow from an infected person. Therefore, updated guidelines involving prevention, contact tracing, and quarantine for COVID-19 are required for control of this highly contagious disease. A post linking to another post about this event: <a href=\"https://twitter.com/jmcrookston/status/1334132864078721026\">post 1 (@jmcrookston)</a>."
+        "text": "Study conclusion: Droplet transmission can occur at a distance greater than 2 m if there is direct air flow from an infected person. Therefore, updated guidelines involving prevention, contact tracing, and quarantine for COVID-19 are required for control of this highly contagious disease. A post linking to another post about this event: <a href='https://twitter.com/jmcrookston/status/1334132864078721026'>post 1 (@jmcrookston)</a>."
       }
     },
     {
@@ -619,6 +673,24 @@
       "text": {
         "headline": "Ventilation in Buildings: CDC recommendation",
         "text": "CDC now recommends good ventilation for buildings: increasing outdoor air, better filtration, importance of system maintenance, HEPA portable air cleaners, and Ultraviolet Germicidal Irradiation (UVGI) Air Purifiers"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://www.abc.net.au/cm/rimage/12895112-3x2-xlarge.jpg?v=2",
+        "caption": "Peppers Waymouth Hotel (Australia)- one of many quarantine hotels",
+        "link": "https://www.abc.net.au/news/2020-12-15/ventilation-system-may-have-caused-hotel-quarantine-transmission/12984280",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 12,
+        "day": 15
+      },
+      "text": {
+        "headline": "Cases that ‘leak’ out of quarantine hotels are most likely due to failure to take #airborne precautions in buildings & transportation",
+        "text": "\"During those times it is possible for droplets and aerosol to come out of that room, and if the ventilation in the passageway is not optimal then it is possible for those droplets to concentrate\". ABC article via <a href='https://twitter.com/Orla_Hegarty/status/1352306551118245896'>@Orla_Hegarty</a>"
       }
     },
     {
