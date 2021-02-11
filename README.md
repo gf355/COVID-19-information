@@ -31,7 +31,7 @@ Take actions now to support Canadian frontline healthcare workers! Click on [thi
 
 # Sign this petition
 
-We are currently running a campaign to get recognition for the fact that COVID-19 is airborne. Please sign this petition: https://www.change.org/p/world-health-organization-who-who-must-raise-the-alarm-to-the-dangers-of-aerosol-transmission
+We are currently running a campaign to get recognition for the fact that COVID-19 is airborne. Please sign [this petition](https://www.change.org/p/world-health-organization-who-who-must-raise-the-alarm-to-the-dangers-of-aerosol-transmission).
 
 # Technology used
 
