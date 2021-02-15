@@ -660,6 +660,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/107883280-f613f000-6ee5-11eb-9e21-64b1a78e3778.png",
+        "caption": "simulation, not military grade camera",
+        "link": "https://www.washingtonpost.com/investigations/2020/12/11/coronavirus-airborne-video-infrared-spread/?arc404=true",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month": 12,
+        "day": 11
+      },
+      "text": {
+        "headline": "Article:  Military-grade camera shows risks of airborne spread",
+        "text": "The Washington Post used an infrared camera made by the company FLIR Systems that is capable of detecting exhaled breath. Numerous experts — epidemiologists, virologists and engineers — supported the notion of using exhalation as a conservative proxy to show potential transmission risk in various settings."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/102808613-77547800-43b8-11eb-9ba9-6e0fb9a29a7d.png",
         "caption": "box fan pic",
         "link": "https://www.cdc.gov/coronavirus/2019-ncov/community/ventilation.html",
@@ -781,6 +799,24 @@
       "text": {
         "headline": "Breathing Is Enough: For the Spread of Influenza Virus and SARS-CoV-2 by Breathing Only",
         "text": "Conclusion after literature search: [Flu and SARS-CoV-2] aerosol particles are difficult to filter out of the air; because of their physical properties, new strategies must be developed to protect people from these virus aerosols."
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/107674048-72ac9180-6c8e-11eb-9ff0-e264b5e7a62b.png",
+        "caption": "",
+        "link": "https://www.medrxiv.org/content/10.1101/2021.02.05.21251235v1.full.pdf",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 2,
+        "day": 10
+      },
+      "text": {
+        "headline": "New Orleans super-spreader event was via a single introduction (it's airborne)",
+        "text": "\"Remember how New Orleans got hit badly, early? They trace the ~50,000 cases likely to a *single* introduction that fueled the Mardi Gras superspreading event. Overdispersion: helpful if taken  seriously, catastrophe if ignored\" - <a href='https://twitter.com/zeynep/status/1359322724989042692'>@Zeynep</a>"
       }
     }
   ]
