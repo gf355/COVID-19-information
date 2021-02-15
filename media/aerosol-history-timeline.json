@@ -14,6 +14,22 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/105977210-0116f580-6089-11eb-9096-e53211eece71.png",
+        "caption": "",
+        "link": "https://archive.org/stream/lucretiusonnatur00lucriala/lucretiusonnatur00lucriala_djvu.txt",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "-95"
+      },
+      "text": {
+        "headline": "\"Infection of the air\" - De rerum natura, book VI - Lucretius",
+        "text": "Via <a href='https://twitter.com/mdc_martinus/status/1304931927032561664'>Maarten De Cock (@mdc_martinus)</a>. [Other translations bookmarkable sought]"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://pbs.twimg.com/media/Ee1FHuIXoAMqRfq?format=png&name=small",
         "caption": "Pringle - Observations on the diseases of the army (1753).",
         "link": "https://archive.org/details/b30502962",
@@ -172,6 +188,23 @@
       "text": {
         "headline": "Airborne infection: Flu too",
         "text": "Riley studied the airborne nature of respiratory diseases in the middle of the 20th century, and published many times. <a href='https://hub.jhu.edu/2020/07/22/richard-riley-airborne-virus/'>See also a COVID19 era article on Riley</a>. "
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/107675435-0337a180-6c90-11eb-8912-77a1a2e710b5.png",
+        "caption": "",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2595130/pdf/yjbm00155-0028.pdf",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1974",
+        "month": 9
+      },
+      "text": {
+        "headline": "MEDICAL REVIEWS: \"Coronaviruses\"",
+        "text": "... It is therefore probable that human coronaviruses can be spread by aerosol as well as by large droplet. Aerosol transmission has actually been documented in poultry by the agent of avian infectious bronchitis."
       }
     },
     {
@@ -353,6 +386,23 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/107283262-0e05f280-6a54-11eb-890d-5f70b1220d2a.png",
+        "caption": "Modified Andersen Sampler used to collect viral RNA\nin expelled particles produced on breathing and coughing",
+        "link": "https://www.researchgate.net/publication/255986671_Respiratory_Virus_RNA_Is_Detectable_in_Airborne_and_Droplet_Particles",
+        "credit": "Gralton et al, 2013"
+      },
+      "start_date": {
+        "year": "2013",
+        "month": 8
+      },
+      "text": {
+        "headline": "Respiratory Virus RNA Is Detectable in Airborne and Droplet Particles",
+        "text": "By using viral RNA as a marker of virus presence, findings in this study show many symptomatic individuals produce both small and large particles on both breathing and coughing, and that hRV and parainfluenza viruses may be present in both small and large particles. Given that airborne-sized and droplet-sized particles contain viral RNA, the use of droplet precautions exclusively may be insufficient to protect healthcare workers from exposure to virus in airborne-sized particles"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://sph.umd.edu/sites/default/files//styles/300-wide/public/news/images/Balt_Sun_G-II.jpg?itok=8CkcfiUl",
         "caption": "Dr Milton, Gesundheit II machine, and test subject",
         "link": "https://www.cbc.ca/radio/quirks/flu-breath-sick-people-can-spread-the-flu-virus-just-by-breathing-1.4502558",
@@ -395,11 +445,29 @@
       "start_date": {
         "year": "2019",
         "month": 3,
-        "day": 153
+        "day": 15
       },
       "text": {
         "headline": "South Korean Hospital (MERS)",
         "text": "Airflow analysis of Pyeongtaek St Mary's Hospital during hospitalization of the first Middle East respiratory syndrome patient in Korea"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://s.hdnux.com/photos/01/01/51/01/17207369/7/ratio3x2_1200.jpg",
+        "caption": "Texas Center for Infectious Disease",
+        "link": "https://www.mysanantonio.com/news/local/article/San-Antonio-man-can-t-leave-a-TB-hospital-for-13758246.php",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2019",
+        "month": 4,
+        "day": 11
+      },
+      "text": {
+        "headline": "San Antonio man can't leave a TB hospital for up to a year",
+        "text": "TB can be deadly and spreads through the air by sneezing and coughing. Treating active TB can require at least six to nine months of daily antibiotics"
       }
     }
   ]
